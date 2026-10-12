@@ -1,0 +1,395 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>everyday coupang</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+KR:wght@400;500;700&display=swap">
+<style>
+/* Layout: 날짜 선반(가로 칩) 위에 그날의 후보표. 넓은 화면은 표, 좁은 화면은 카드로 쌓임 */
+:root {
+  --bg: #f3f5f7;
+  --surface: #ffffff;
+  --ink: #17202b;
+  --muted: #5d6876;
+  --line: #dde2e8;
+  --accent: #1d5fd0;
+  --accent-soft: #e4edfb;
+  --star: #b7710b;
+  --done: #1f7a4d;
+  --done-soft: #e2f3ea;
+  --est: #8a5a00;
+  --est-soft: #fbf0d9;
+  --f-body: "IBM Plex Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
+  --f-data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #11161c; --surface: #19202a; --ink: #e6ebf1; --muted: #9aa6b4; --line: #2b3542;
+  --accent: #6ea0f5; --accent-soft: #1d2b42; --star: #f0b14a; --done: #5cc98f; --done-soft: #17322a;
+  --est: #f0c26a; --est-soft: #3a2f17; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #11161c; --surface: #19202a; --ink: #e6ebf1; --muted: #9aa6b4; --line: #2b3542;
+  --accent: #6ea0f5; --accent-soft: #1d2b42; --star: #f0b14a; --done: #5cc98f; --done-soft: #17322a;
+  --est: #f0c26a; --est-soft: #3a2f17; color-scheme: dark }
+
+* { box-sizing: border-box }
+body { background: var(--bg); color: var(--ink); font-family: var(--f-body); font-size: 15px; line-height: 1.55 }
+.wrap { max-width: 1180px; margin: 0 auto; padding-inline: 20px; padding-block: 28px 56px; display: grid; gap: 22px }
+@media (max-width: 560px) { .wrap { padding-inline: 16px } }
+
+header { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 12px 24px }
+.brand h1 { margin: 0; font-size: 28px; font-weight: 700; letter-spacing: -0.02em; text-wrap: balance }
+.brand p { margin: 4px 0 0; color: var(--muted); font-size: 14px; max-width: 60ch }
+.stats { display: flex; gap: 18px; font-size: 13px; color: var(--muted) }
+.stats b { display: block; font-family: var(--f-data); font-size: 20px; color: var(--ink); font-weight: 500; font-variant-numeric: tabular-nums }
+
+.shelf { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin }
+.day { flex: none; border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 8px;
+  padding: 8px 14px; font: inherit; cursor: pointer; text-align: left; display: grid; gap: 1px }
+.day small { color: var(--muted); font-size: 12px }
+.day span { font-family: var(--f-data); font-size: 14px; font-variant-numeric: tabular-nums }
+.day[aria-pressed="true"] { border-color: var(--accent); background: var(--accent-soft) }
+.day:focus-visible, button:focus-visible, a:focus-visible, select:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px }
+
+.toolbar { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; justify-content: space-between }
+.toolbar h2 { margin: 0; font-size: 18px; font-weight: 700 }
+.toolbar h2 span { color: var(--muted); font-weight: 400; font-size: 14px; margin-left: 6px }
+.filters { display: flex; flex-wrap: wrap; gap: 6px }
+.chip { border: 1px solid var(--line); background: transparent; color: var(--muted); border-radius: 999px; padding: 4px 12px; font: inherit; font-size: 13px; cursor: pointer }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink) }
+
+.note { font-size: 13px; color: var(--muted); margin: 0 }
+.note mark { background: var(--est-soft); color: var(--est); padding: 1px 6px; border-radius: 4px; font-size: 12px }
+
+.table-box { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; overflow-x: auto }
+table { width: 100%; border-collapse: collapse; min-width: 980px }
+th { text-align: left; font-size: 12px; font-weight: 500; color: var(--muted); letter-spacing: 0.04em; padding: 10px 12px; border-bottom: 1px solid var(--line); white-space: nowrap }
+td { padding: 14px 12px; border-bottom: 1px solid var(--line); vertical-align: top }
+tr:last-child td { border-bottom: 0 }
+tr.is-done td { background: var(--done-soft) }
+.num { font-family: var(--f-data); font-variant-numeric: tabular-nums; white-space: nowrap }
+.idx { color: var(--muted); font-family: var(--f-data); font-size: 13px }
+.name { font-weight: 500; min-width: 180px }
+.name small { display: block; color: var(--muted); font-weight: 400; font-size: 12px; margin-top: 2px }
+.cat { display: inline-block; font-size: 12px; padding: 2px 8px; border-radius: 4px; background: var(--accent-soft); color: var(--accent); white-space: nowrap }
+.star { color: var(--star) }
+.est { display: inline-block; margin-left: 4px; font-family: var(--f-body); font-size: 11px; color: var(--est); background: var(--est-soft); padding: 0 5px; border-radius: 3px; vertical-align: 1px }
+.reason { color: var(--ink); font-size: 14px; max-width: 34ch }
+.links { display: flex; flex-direction: column; gap: 4px; font-size: 13px; white-space: nowrap }
+a { color: var(--accent) }
+.act { display: flex; flex-direction: column; gap: 6px; align-items: flex-start }
+.btn { border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 6px; padding: 4px 10px; font: inherit; font-size: 13px; cursor: pointer; white-space: nowrap }
+.btn.done { background: var(--done); border-color: var(--done); color: var(--surface) }
+
+.cards { display: none; gap: 12px }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px; display: grid; gap: 10px; min-width: 0 }
+.card.is-done { background: var(--done-soft) }
+.card-top { display: flex; justify-content: space-between; gap: 10px; align-items: flex-start }
+.card-top .name { min-width: 0 }
+.facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; font-size: 13px }
+.facts dt { color: var(--muted); font-size: 11px; letter-spacing: 0.04em }
+.facts dd { margin: 0 }
+.card .reason { max-width: none }
+.card-foot { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; font-size: 13px }
+@media (max-width: 820px) { .table-box { display: none } .cards { display: grid } }
+
+.empty { background: var(--surface); border: 1px dashed var(--line); border-radius: 10px; padding: 28px 20px; color: var(--muted); display: grid; gap: 6px }
+.empty strong { color: var(--ink); font-size: 16px }
+.toast { position: fixed; left: 50%; bottom: calc(20px + env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 8px 14px; border-radius: 8px; font-size: 13px }
+footer { color: var(--muted); font-size: 12px }
+</style>
+</head>
+<body>
+
+
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <h1>everyday coupang</h1>
+      <p>매일 아침 쿠팡에 올릴 잡화·액세서리 후보 10개. 식품과 화장품은 빼고, 리뷰가 많고 많이 찾는 상품부터 골랐어요.</p>
+    </div>
+    <div class="stats" aria-live="polite">
+      <div><b id="st-days">0</b>쌓인 날짜</div>
+      <div><b id="st-items">0</b>누적 후보</div>
+      <div><b id="st-done">0</b>등록 완료</div>
+    </div>
+  </header>
+
+  <nav class="shelf" id="shelf" aria-label="날짜 선택"></nav>
+
+  <section id="main" style="display:grid;gap:14px">
+    <div class="empty" id="empty">
+      <strong>목록을 불러오는 중이에요</strong>
+      <span>매일 오전 8시쯤(한국 시간) 새 후보 10개가 여기에 추가돼요.</span>
+    </div>
+  </section>
+
+  <footer>리뷰 수와 평점에 <span class="est">추정</span> 표시가 붙은 값은 조사 시점의 대략적인 규모예요. 등록 전에 쿠팡 검색 링크에서 실제 숫자를 확인해 주세요. 등록 완료 표시는 이 브라우저에만 저장돼요.</footer>
+</div>
+<div class="toast" id="toast" hidden></div>
+
+<script>
+const $ = (s) => document.querySelector(s);
+const state = { days: [], sel: null, cat: "전체", done: {}, uid: null, db: null };
+const won = (n) => typeof n === "number" ? n.toLocaleString("ko-KR") + "원" : (n || "-");
+const dow = (d) => "일월화수목금토"[new Date(d + "T00:00:00+09:00").getDay()];
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const safeUrl = (u) => /^https:\/\//.test(u || "") ? u : null;
+const key = (date, i) => date + "_" + i;
+
+function toast(msg) {
+  const t = $("#toast"); t.textContent = msg; t.hidden = false;
+  clearTimeout(toast.h); toast.h = setTimeout(() => (t.hidden = true), 1600);
+}
+
+function renderShelf() {
+  const shelf = $("#shelf");
+  shelf.innerHTML = state.days.map((d) => {
+    const n = (d.items || []).length;
+    const doneN = (d.items || []).filter((_, i) => state.done[key(d.id, i)]).length;
+    return `<button class="day" aria-pressed="${d.id === state.sel}" data-day="${esc(d.id)}">
+      <small>${esc(d.id.slice(5).replace("-", "."))} (${dow(d.id)})</small><span>${doneN}/${n}</span></button>`;
+  }).join("");
+  $("#st-days").textContent = state.days.length;
+  $("#st-items").textContent = state.days.reduce((a, d) => a + (d.items || []).length, 0);
+  $("#st-done").textContent = Object.values(state.done).filter(Boolean).length;
+}
+
+function reviewCell(it) {
+  const r = typeof it.reviews === "number" ? it.reviews.toLocaleString("ko-KR") + "+" : esc(it.reviews || "-");
+  return `${r}${it.estimated ? '<span class="est">추정</span>' : ""}`;
+}
+function ratingCell(it) {
+  return it.rating ? `<span class="star">★</span> ${Number(it.rating).toFixed(1)}${it.estimated ? '<span class="est">추정</span>' : ""}` : "-";
+}
+function priceCell(it) { return `${won(it.priceMin)} ~ ${won(it.priceMax)}`; }
+function linksCell(it) {
+  const out = [];
+  const s = safeUrl(it.link); if (s) out.push(`<a href="${esc(s)}" target="_blank" rel="noopener">쿠팡 검색</a>`);
+  const r = safeUrl(it.ref); if (r) out.push(`<a href="${esc(r)}" target="_blank" rel="noopener">${esc(it.refLabel || "참고 자료")}</a>`);
+  return out.join("") || "-";
+}
+
+function renderMain() {
+  const main = $("#main");
+  const day = state.days.find((d) => d.id === state.sel);
+  if (!day) {
+    main.innerHTML = `<div class="empty"><strong>아직 쌓인 목록이 없어요</strong>
+      <span>매일 오전 8시쯤(한국 시간) 새 후보 10개가 여기에 추가돼요.</span></div>`;
+    return;
+  }
+  const items = (day.items || []).map((it, i) => ({ ...it, i }));
+  const cats = ["전체", ...new Set(items.map((it) => it.category).filter(Boolean))];
+  if (!cats.includes(state.cat)) state.cat = "전체";
+  const shown = items.filter((it) => state.cat === "전체" || it.category === state.cat);
+
+  const rows = shown.map((it) => {
+    const done = !!state.done[key(day.id, it.i)];
+    return `<tr class="${done ? "is-done" : ""}">
+      <td class="idx">${String(it.i + 1).padStart(2, "0")}</td>
+      <td class="name">${esc(it.name)}${it.keyword ? `<small>검색어 · ${esc(it.keyword)}</small>` : ""}</td>
+      <td><span class="cat">${esc(it.category)}</span></td>
+      <td class="num">${reviewCell(it)}</td>
+      <td class="num">${ratingCell(it)}</td>
+      <td class="num">${priceCell(it)}</td>
+      <td class="reason">${esc(it.reason)}</td>
+      <td><div class="links">${linksCell(it)}</div></td>
+      <td><div class="act">
+        <button class="btn" data-copy="${it.i}">상품명 복사</button>
+        ${state.uid ? `<button class="btn ${done ? "done" : ""}" data-done="${it.i}" aria-pressed="${done}">${done ? "등록 완료" : "등록 표시"}</button>` : ""}
+      </div></td></tr>`;
+  }).join("");
+
+  const cards = shown.map((it) => {
+    const done = !!state.done[key(day.id, it.i)];
+    return `<article class="card ${done ? "is-done" : ""}">
+      <div class="card-top"><div class="name"><span class="idx">${String(it.i + 1).padStart(2, "0")}</span> ${esc(it.name)}
+        ${it.keyword ? `<small>검색어 · ${esc(it.keyword)}</small>` : ""}</div><span class="cat">${esc(it.category)}</span></div>
+      <dl class="facts">
+        <div><dt>리뷰 수</dt><dd class="num">${reviewCell(it)}</dd></div>
+        <div><dt>평점</dt><dd class="num">${ratingCell(it)}</dd></div>
+        <div><dt>가격대</dt><dd class="num">${priceCell(it)}</dd></div>
+      </dl>
+      <div class="reason">${esc(it.reason)}</div>
+      <div class="card-foot">${linksCell(it).replace(/<\/a>/g, "</a>")}
+        <button class="btn" data-copy="${it.i}">상품명 복사</button>
+        ${state.uid ? `<button class="btn ${done ? "done" : ""}" data-done="${it.i}" aria-pressed="${done}">${done ? "등록 완료" : "등록 표시"}</button>` : ""}
+      </div></article>`;
+  }).join("");
+
+  main.innerHTML = `
+    <div class="toolbar">
+      <h2>${esc(day.id.replace(/-/g, "."))} (${dow(day.id)}) 후보<span>${items.length}개</span></h2>
+      <div class="filters">${cats.map((c) => `<button class="chip" data-cat="${esc(c)}" aria-pressed="${c === state.cat}">${esc(c)}</button>`).join("")}</div>
+    </div>
+    ${day.note ? `<p class="note">${esc(day.note)}</p>` : ""}
+    <div class="table-box"><table>
+      <thead><tr><th>#</th><th>상품명</th><th>카테고리</th><th>리뷰 수</th><th>평점</th><th>가격대</th><th>고른 이유</th><th>참고 링크</th><th></th></tr></thead>
+      <tbody>${rows}</tbody></table></div>
+    <div class="cards">${cards}</div>`;
+}
+
+function render() { renderShelf(); renderMain(); }
+
+document.addEventListener("click", async (e) => {
+  const b = e.target.closest("button"); if (!b) return;
+  if (b.dataset.day) { state.sel = b.dataset.day; state.cat = "전체"; try { localStorage.setItem("ec-day", state.sel); } catch {} render(); }
+  else if (b.dataset.cat) { state.cat = b.dataset.cat; renderMain(); }
+  else if (b.dataset.copy) {
+    const it = state.days.find((d) => d.id === state.sel).items[+b.dataset.copy];
+    try { await navigator.clipboard.writeText(it.name); toast("상품명을 복사했어요"); }
+    catch { toast(it.name); }
+  } else if (b.dataset.done && state.db && state.uid) {
+    const k = key(state.sel, b.dataset.done);
+    state.done = { ...state.done, [k]: !state.done[k] };
+    render();
+    try { await state.db.doc("data/users/" + state.uid + "/progress").set({ done: state.done }); }
+    catch { toast("저장하지 못했어요. 다시 눌러 주세요"); }
+  }
+});
+
+// ── 상품 데이터 ─────────────────────────────────────────────
+// 새 날짜 목록은 아래 DAYS 배열 맨 앞에 같은 형식으로 추가하면 돼요.
+const DAYS = [
+  {
+    "date": "2026-10-12",
+    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+    "items": [
+      {
+        "name": "맥세이프 가죽 카드지갑 (마그네틱 부착형)",
+        "category": "휴대폰 액세서리",
+        "keyword": "맥세이프 카드지갑",
+        "reviews": 30000,
+        "rating": 4.7,
+        "priceMin": 9900,
+        "priceMax": 19900,
+        "reason": "아이폰 사용자 필수템으로 검색량이 꾸준하고, 색상 옵션만 늘려도 묶음 구성이 쉬워요. 가볍고 부피가 작아 배송비 부담이 적어요.",
+        "link": "https://www.coupang.com/np/search?q=%EB%A7%A5%EC%84%B8%EC%9D%B4%ED%94%84%20%EC%B9%B4%EB%93%9C%EC%A7%80%EA%B0%91",
+        "estimated": true
+      },
+      {
+        "name": "스마트폰 터치 니트 장갑 (남녀공용)",
+        "category": "패션잡화",
+        "keyword": "스마트폰 터치 장갑",
+        "reviews": 20000,
+        "rating": 4.6,
+        "priceMin": 6900,
+        "priceMax": 14900,
+        "reason": "10월 중순부터 검색이 오르기 시작하는 시즌 상품이라 지금 등록하면 성수기 전에 리뷰를 쌓을 수 있어요.",
+        "link": "https://www.coupang.com/np/search?q=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%ED%84%B0%EC%B9%98%20%EC%9E%A5%EA%B0%91",
+        "estimated": true
+      },
+      {
+        "name": "기모 니트 비니 (무지 베이직)",
+        "category": "패션잡화",
+        "keyword": "니트 비니",
+        "reviews": 30000,
+        "rating": 4.6,
+        "priceMin": 7900,
+        "priceMax": 15900,
+        "reason": "가을·겨울 대표 검색어이고 무지 색상 구성으로 재고 관리가 단순해요. 커플·세트 구성으로 객단가를 올리기 좋아요.",
+        "link": "https://www.coupang.com/np/search?q=%EB%8B%88%ED%8A%B8%20%EB%B9%84%EB%8B%88",
+        "estimated": true
+      },
+      {
+        "name": "경량 플리스 넥워머",
+        "category": "패션잡화",
+        "keyword": "넥워머",
+        "reviews": 15000,
+        "rating": 4.6,
+        "priceMin": 5900,
+        "priceMax": 12900,
+        "reason": "출퇴근·등산·라이딩 수요가 겹쳐 검색층이 넓고, 저단가라 첫 구매 전환이 잘 나와요.",
+        "link": "https://www.coupang.com/np/search?q=%EB%84%A5%EC%9B%8C%EB%A8%B8",
+        "estimated": true
+      },
+      {
+        "name": "가방 키링 인형 (가방참)",
+        "category": "액세서리",
+        "keyword": "가방 키링",
+        "reviews": 10000,
+        "rating": 4.7,
+        "priceMin": 4900,
+        "priceMax": 13900,
+        "reason": "가방참 유행이 이어져 10~20대 검색이 많아요. 시즌 테마(할로윈·크리스마스)로 신상을 계속 낼 수 있어요.",
+        "link": "https://www.coupang.com/np/search?q=%EA%B0%80%EB%B0%A9%20%ED%82%A4%EB%A7%81",
+        "estimated": true
+      },
+      {
+        "name": "스마트폰 크로스 스트랩 (분리형 링 패치)",
+        "category": "휴대폰 액세서리",
+        "keyword": "핸드폰 스트랩",
+        "reviews": 20000,
+        "rating": 4.6,
+        "priceMin": 6900,
+        "priceMax": 15900,
+        "reason": "케이스 종류와 상관없이 쓰는 범용 상품이라 기종별 재고가 필요 없어요. 여행 시즌에 검색이 늘어요.",
+        "link": "https://www.coupang.com/np/search?q=%ED%95%B8%EB%93%9C%ED%8F%B0%20%EC%8A%A4%ED%8A%B8%EB%9E%A9",
+        "estimated": true
+      },
+      {
+        "name": "써지컬 스틸 데일리 귀걸이 세트",
+        "category": "주얼리 액세서리",
+        "keyword": "써지컬 귀걸이 세트",
+        "reviews": 20000,
+        "rating": 4.5,
+        "priceMin": 7900,
+        "priceMax": 19900,
+        "reason": "알레르기 걱정이 적은 소재로 리뷰 만족도가 높고, 세트 구성으로 선물 수요까지 잡을 수 있어요.",
+        "link": "https://www.coupang.com/np/search?q=%EC%8D%A8%EC%A7%80%EC%BB%AC%20%EA%B7%80%EA%B1%B8%EC%9D%B4%20%EC%84%B8%ED%8A%B8",
+        "estimated": true
+      },
+      {
+        "name": "대형 헤어 집게핀 (무광 마블)",
+        "category": "헤어 액세서리",
+        "keyword": "집게핀",
+        "reviews": 30000,
+        "rating": 4.6,
+        "priceMin": 3900,
+        "priceMax": 12900,
+        "reason": "사계절 꾸준히 팔리는 스테디셀러이고 단가가 낮아 묶음 할인·색상 세트 판매가 잘 맞아요.",
+        "link": "https://www.coupang.com/np/search?q=%EC%A7%91%EA%B2%8C%ED%95%80",
+        "estimated": true
+      },
+      {
+        "name": "남성 소가죽 자동버클 벨트",
+        "category": "패션잡화",
+        "keyword": "남자 벨트 자동",
+        "reviews": 15000,
+        "rating": 4.5,
+        "priceMin": 12900,
+        "priceMax": 29900,
+        "reason": "선물 시즌(추석 이후~연말) 검색이 오르고, 사이즈 조절형이라 반품 사유가 적어요.",
+        "link": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%9E%90%20%EB%B2%A8%ED%8A%B8%20%EC%9E%90%EB%8F%99",
+        "estimated": true
+      },
+      {
+        "name": "기모 수면양말 5족 세트",
+        "category": "패션잡화",
+        "keyword": "수면양말",
+        "reviews": 30000,
+        "rating": 4.7,
+        "priceMin": 8900,
+        "priceMax": 16900,
+        "reason": "기온이 내려가면 바로 검색이 급증하는 품목이에요. 다족 세트 구성으로 리뷰가 빠르게 쌓여요.",
+        "link": "https://www.coupang.com/np/search?q=%EC%88%98%EB%A9%B4%EC%96%91%EB%A7%90",
+        "estimated": true
+      }
+    ]
+  }
+];
+
+(() => {
+  try { state.done = JSON.parse(localStorage.getItem("ec-done") || "{}"); } catch {}
+  state.uid = "local";
+  state.db = { doc: () => ({ set: async (d) => localStorage.setItem("ec-done", JSON.stringify(d.done)) }) };
+  state.days = DAYS.map((d) => ({ id: d.date, ...d })).sort((a, b) => b.id.localeCompare(a.id));
+  let saved = null; try { saved = localStorage.getItem("ec-day"); } catch {}
+  state.sel = state.days.some((d) => d.id === saved) ? saved : state.days[0]?.id ?? null;
+  render();
+})();
+</script>
+
+</body>
+</html>
