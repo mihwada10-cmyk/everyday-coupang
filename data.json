@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-10-17",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "할로윈 파티 머리띠 (호박·박쥐·마녀모자)",
+     "category": "헤어 액세서리",
+     "keyword": "할로윈 머리띠",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 2900,
+     "priceMax": 8900,
+     "reason": "10월 31일까지 검색이 급증하는 단기 시즌 상품이에요. 지금 등록해야 성수기를 잡을 수 있고, 저단가라 묶음 구매가 잘 나와요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%95%A0%EB%A1%9C%EC%9C%88%20%EB%A8%B8%EB%A6%AC%EB%9D%A0",
+     "estimated": true
+    },
+    {
+     "name": "울 혼방 베레모",
+     "category": "패션잡화",
+     "keyword": "베레모",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 8900,
+     "priceMax": 19900,
+     "reason": "가을·겨울 코디 모자로 2030 여성 검색이 꾸준하고, 색상 옵션만으로 상품을 늘리기 쉬워요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B2%A0%EB%A0%88%EB%AA%A8",
+     "estimated": true
+    },
+    {
+     "name": "니트 팔토시 (손등 덮개형)",
+     "category": "패션잡화",
+     "keyword": "팔토시",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "사무실·출퇴근용 방한 수요가 기온 하락과 함께 오르고, 가볍고 작아 배송비 부담이 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8C%94%ED%86%A0%EC%8B%9C",
+     "estimated": true
+    },
+    {
+     "name": "가죽 명함 지갑",
+     "category": "패션잡화",
+     "keyword": "명함 지갑",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 8900,
+     "priceMax": 19900,
+     "reason": "직장인 선물 검색이 연말까지 오르는 품목이고, 이니셜 각인 옵션으로 차별화하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AA%85%ED%95%A8%20%EC%A7%80%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 스틸 체인 팔찌",
+     "category": "주얼리 액세서리",
+     "keyword": "써지컬 팔찌",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 5900,
+     "priceMax": 15900,
+     "reason": "변색·알레르기 걱정이 적어 리뷰 만족도가 높고, 이전에 고른 써지컬 목걸이·귀걸이와 세트로 팔 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8D%A8%EC%A7%80%EC%BB%AC%20%ED%8C%94%EC%B0%8C",
+     "estimated": true
+    },
+    {
+     "name": "와이드 가방 스트랩 (교체용 크로스끈)",
+     "category": "가방 액세서리",
+     "keyword": "가방 스트랩",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "갖고 있는 가방을 크로스백으로 바꾸는 수요로 검색이 꾸준하고, 길이 조절형이라 반품 사유가 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%80%EB%B0%A9%20%EC%8A%A4%ED%8A%B8%EB%9E%A9",
+     "estimated": true
+    },
+    {
+     "name": "미니 가죽 동전지갑 (키링형)",
+     "category": "패션잡화",
+     "keyword": "동전지갑",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "작은 소품이라 선물·충동구매가 많고, 키링 고리가 있어 가방 꾸미기 수요까지 잡을 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%8F%99%EC%A0%84%EC%A7%80%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "극세사 헤어 드라이 타월 (터번형)",
+     "category": "생활잡화",
+     "keyword": "헤어 타월",
+     "reviews": 30000,
+     "rating": 4.7,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "재구매가 잦은 생활 소모품이라 리뷰가 빨리 쌓이고, 2~3개 세트 구성으로 객단가를 올리기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%97%A4%EC%96%B4%20%ED%83%80%EC%9B%94",
+     "estimated": true
+    },
+    {
+     "name": "쁘띠 실크 터치 스카프",
+     "category": "패션잡화",
+     "keyword": "쁘띠 스카프",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 5900,
+     "priceMax": 13900,
+     "reason": "가방 손잡이·목에 두르는 포인트 액세서리로 가을 코디 검색이 늘고, 패턴 옵션으로 신상을 계속 낼 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%81%98%EB%9D%A0%20%EC%8A%A4%EC%B9%B4%ED%94%84",
+     "estimated": true
+    },
+    {
+     "name": "비즈 안경줄 겸 마스크 스트랩",
+     "category": "액세서리",
+     "keyword": "안경줄",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "안경 사용자가 꾸준히 찾고, 앞서 고른 안경 케이스·블루라이트 안경과 함께 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%88%EA%B2%BD%EC%A4%84",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-16",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
