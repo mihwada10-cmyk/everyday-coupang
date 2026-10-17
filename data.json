@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-10-18",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "기모 벙어리 장갑 (손가락 없는 덮개형)",
+     "category": "패션잡화",
+     "keyword": "벙어리 장갑",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 14900,
+     "reason": "한겨울 방한 장갑으로 11월부터 검색이 급증해요. 덮개를 열면 손가락이 나오는 형태라 스마트폰 사용 불편을 줄여줘요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B2%99%EC%96%B4%EB%A6%AC%20%EC%9E%A5%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "벨벳 리본 헤어핀",
+     "category": "헤어 액세서리",
+     "keyword": "리본 핀",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 10900,
+     "reason": "리본 액세서리 유행이 이어지고 연말 모임 시즌 수요까지 겹쳐요. 색상 세트로 묶으면 객단가가 올라가요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A6%AC%EB%B3%B8%20%ED%95%80",
+     "estimated": true
+    },
+    {
+     "name": "울 혼방 등산 양말 3족",
+     "category": "패션잡화",
+     "keyword": "등산 양말",
+     "reviews": 20000,
+     "rating": 4.7,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "단풍 시즌 등산 수요가 지금 가장 높고, 겨울 방한 양말로도 이어져 판매 기간이 길어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%93%B1%EC%82%B0%20%EC%96%91%EB%A7%90",
+     "estimated": true
+    },
+    {
+     "name": "가방 정리 이너백 (토트백용)",
+     "category": "가방 액세서리",
+     "keyword": "이너백",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 15900,
+     "reason": "큰 토트백을 쓰는 고객이 함께 찾는 실용템이고, 사이즈 옵션만 관리하면 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%84%88%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "여행용 파우치 5종 세트",
+     "category": "여행잡화",
+     "keyword": "여행 파우치",
+     "reviews": 30000,
+     "rating": 4.7,
+     "priceMin": 8900,
+     "priceMax": 19900,
+     "reason": "연말·겨울 여행 시즌 전에 검색이 오르고, 세트 구성이라 리뷰가 빨리 쌓여요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "미니 체인 숄더백",
+     "category": "가방",
+     "keyword": "체인백",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 14900,
+     "priceMax": 32900,
+     "reason": "연말 모임용 가방으로 검색이 늘고, 체인 스트랩 하나로 숄더·크로스 겸용이라 활용도가 높아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B2%B4%EC%9D%B8%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 스틸 이어커프 (무피어싱)",
+     "category": "주얼리 액세서리",
+     "keyword": "이어커프",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "귀를 뚫지 않아도 되는 액세서리라 구매층이 넓고, 기존 써지컬 주얼리와 세트로 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9D%B4%EC%96%B4%EC%BB%A4%ED%94%84",
+     "estimated": true
+    },
+    {
+     "name": "바라클라바 후드 넥워머",
+     "category": "패션잡화",
+     "keyword": "바라클라바",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 7900,
+     "priceMax": 17900,
+     "reason": "라이딩·스키·출퇴근 방한용으로 겨울마다 검색이 오르는 품목이고, 넥워머보다 보온 범위가 넓어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%9D%BC%ED%81%B4%EB%9D%BC%EB%B0%94",
+     "estimated": true
+    },
+    {
+     "name": "접이식 탁상용 휴대폰 거치대",
+     "category": "휴대폰 액세서리",
+     "keyword": "탁상용 휴대폰 거치대",
+     "reviews": 50000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 12900,
+     "reason": "영상 시청·화상 통화용으로 사계절 검색량이 크고, 저단가라 첫 구매 전환이 잘 나와요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%83%81%EC%83%81%EC%9A%A9%20%ED%9C%B4%EB%8C%80%ED%8F%B0%20%EA%B1%B0%EC%B9%98%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 파티 머리띠 (루돌프·산타)",
+     "category": "헤어 액세서리",
+     "keyword": "크리스마스 머리띠",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 2900,
+     "priceMax": 8900,
+     "reason": "12월 성수기 전에 미리 등록해 리뷰를 쌓아 두면 시즌 노출에 유리해요. 할로윈 머리띠 다음 시즌 상품이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EB%A8%B8%EB%A6%AC%EB%9D%A0",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-17",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
