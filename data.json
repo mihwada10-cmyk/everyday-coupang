@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-10-19",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "보아 플리스 숄더백",
+     "category": "가방",
+     "keyword": "플리스 가방",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 12900,
+     "priceMax": 24900,
+     "reason": "겨울 시즌 한정으로 검색이 오르는 가방이에요. 따뜻한 소재감으로 11~12월 코디 수요를 잡기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%94%8C%EB%A6%AC%EC%8A%A4%20%EA%B0%80%EB%B0%A9",
+     "estimated": true
+    },
+    {
+     "name": "앞머리 헤어롤 세트 (벨크로)",
+     "category": "헤어 액세서리",
+     "keyword": "헤어롤",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 8900,
+     "reason": "학생·직장인이 꾸준히 사는 저단가 소모품이라 재구매가 많고, 사이즈 세트로 묶어 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%97%A4%EC%96%B4%EB%A1%A4",
+     "estimated": true
+    },
+    {
+     "name": "니트 판초 케이프",
+     "category": "패션잡화",
+     "keyword": "판초",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 14900,
+     "priceMax": 29900,
+     "reason": "가을·초겨울 아우터 위에 걸치는 아이템으로 검색이 오르고, 경쟁이 비교적 덜한 틈새 상품이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8C%90%EC%B4%88",
+     "estimated": true
+    },
+    {
+     "name": "3D 입체 수면안대",
+     "category": "생활잡화",
+     "keyword": "수면안대",
+     "reviews": 50000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "여행·숙면용으로 사계절 검색량이 크고, 가벼워서 배송 부담이 거의 없어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%88%98%EB%A9%B4%EC%95%88%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "메모리폼 여행용 목베개",
+     "category": "여행잡화",
+     "keyword": "목베개",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "연말·겨울 해외여행 시즌을 앞두고 검색이 늘고, 앞서 고른 여권 지갑·여행 파우치와 함께 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AA%A9%EB%B2%A0%EA%B0%9C",
+     "estimated": true
+    },
+    {
+     "name": "자동 장우산 (튼튼한 16살대)",
+     "category": "패션잡화",
+     "keyword": "장우산",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 12900,
+     "priceMax": 24900,
+     "reason": "3단 우산과 다른 수요층(출퇴근·골프)이 있고, 살대 수·방풍 기능으로 차별화하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9E%A5%EC%9A%B0%EC%82%B0",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 스틸 이니셜 목걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "이니셜 목걸이",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 7900,
+     "priceMax": 18900,
+     "reason": "알파벳 옵션 하나로 개인화 선물 수요를 잡을 수 있어 연말 시즌에 잘 맞아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%8B%88%EC%85%9C%20%EB%AA%A9%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "소가죽 손목시계 줄 (퀵 릴리즈)",
+     "category": "시계 액세서리",
+     "keyword": "시계줄",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "아날로그 시계 사용자가 꾸준히 찾고, 폭(mm) 옵션만 관리하면 여러 시계에 맞출 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8B%9C%EA%B3%84%EC%A4%84",
+     "estimated": true
+    },
+    {
+     "name": "카드 수납 지갑형 휴대폰 케이스",
+     "category": "휴대폰 액세서리",
+     "keyword": "지갑형 케이스",
+     "reviews": 50000,
+     "rating": 4.5,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "검색량이 매우 큰 기본 상품이라 기종별 키워드로 노출을 노릴 수 있어요. 기종 옵션 관리가 필요해요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%A7%80%EA%B0%91%ED%98%95%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "리본 선물 포장 상자 세트",
+     "category": "포장 잡화",
+     "keyword": "선물 포장 상자",
+     "reviews": 15000,
+     "rating": 4.7,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "빼빼로데이·크리스마스를 앞두고 검색이 급증하고, 액세서리 상품과 함께 팔면 객단가가 올라가요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%A0%EB%AC%BC%20%ED%8F%AC%EC%9E%A5%20%EC%83%81%EC%9E%90",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-18",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
