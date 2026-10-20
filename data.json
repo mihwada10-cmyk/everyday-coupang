@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-10-21",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "극세사 후드 담요 (망토형)",
+     "category": "생활잡화",
+     "keyword": "후드 담요",
+     "reviews": 20000,
+     "rating": 4.7,
+     "priceMin": 12900,
+     "priceMax": 24900,
+     "reason": "집·사무실에서 입는 담요라 날이 추워지면 검색이 급증하고, 선물용 수요도 함께 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%9B%84%EB%93%9C%20%EB%8B%B4%EC%9A%94",
+     "estimated": true
+    },
+    {
+     "name": "PU 가죽 북커버 (A5·B6)",
+     "category": "문구잡화",
+     "keyword": "북커버",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 15900,
+     "reason": "다이어리 시즌(11~12월)을 앞두고 검색이 오르고, 경쟁이 비교적 덜한 틈새 잡화예요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B6%81%EC%BB%A4%EB%B2%84",
+     "estimated": true
+    },
+    {
+     "name": "바나나 헤어핀 (마블 패턴)",
+     "category": "헤어 액세서리",
+     "keyword": "바나나핀",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "긴 머리를 간편하게 묶는 핀으로 꾸준히 팔리고, 색상 세트로 객단가를 올리기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B0%94%EB%82%98%EB%82%98%ED%95%80",
+     "estimated": true
+    },
+    {
+     "name": "체크 패턴 미니 파우치",
+     "category": "패션잡화",
+     "keyword": "미니 파우치",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "가방 속 정리용으로 사계절 팔리는 저단가 상품이고, 선물 포장 상품과 묶어 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AF%B8%EB%8B%88%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "벨벳 초커 목걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "초커",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 10900,
+     "reason": "연말 파티룩 액세서리로 검색이 오르고, 저단가라 여러 색을 함께 사는 경우가 많아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B4%88%EC%BB%A4",
+     "estimated": true
+    },
+    {
+     "name": "남성 양가죽 터치 장갑",
+     "category": "패션잡화",
+     "keyword": "가죽 장갑",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 14900,
+     "priceMax": 32900,
+     "reason": "니트 장갑과 수요층이 다른 고단가 방한 장갑이에요. 연말 남성 선물로 검색이 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%80%EC%A3%BD%20%EC%9E%A5%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "차량용 송풍구 방향제 (리필형)",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 방향제",
+     "reviews": 50000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "운전자가 꾸준히 재구매하는 소모품이라 리뷰가 많이 쌓이고, 리필 판매로 재구매를 유도할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%EB%B0%A9%ED%96%A5%EC%A0%9C",
+     "estimated": true
+    },
+    {
+     "name": "알루미늄 접이식 노트북 거치대",
+     "category": "사무잡화",
+     "keyword": "노트북 거치대",
+     "reviews": 50000,
+     "rating": 4.7,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "재택·사무실 수요로 검색량이 매우 크고, 앞서 고른 노트북 파우치·백팩과 함께 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%8A%B8%EB%B6%81%20%EA%B1%B0%EC%B9%98%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 귀걸이 (리스·눈꽃)",
+     "category": "주얼리 액세서리",
+     "keyword": "크리스마스 귀걸이",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "12월 시즌 전에 미리 등록해 리뷰를 쌓아 두면 성수기 노출에 유리해요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EA%B7%80%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "손목 쿠션 마우스패드",
+     "category": "사무잡화",
+     "keyword": "손목 받침 마우스패드",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "사무직 필수품으로 사계절 검색이 꾸준하고, 가벼워서 배송 부담이 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%86%90%EB%AA%A9%20%EB%B0%9B%EC%B9%A8%20%EB%A7%88%EC%9A%B0%EC%8A%A4%ED%8C%A8%EB%93%9C",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-20",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
