@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-10-22",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "벨벳 액세서리 트레이 (반지·귀걸이 보관)",
+     "category": "액세서리 수납",
+     "keyword": "액세서리 트레이",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "주얼리를 산 고객이 함께 찾는 수납 소품이라 기존 주얼리 상품과 묶어 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC%20%ED%8A%B8%EB%A0%88%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "남성 실크 터치 넥타이",
+     "category": "패션잡화",
+     "keyword": "넥타이",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "연말 선물·면접·결혼식 수요가 겹치는 품목이고, 선물 포장 옵션으로 객단가를 올리기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%84%A5%ED%83%80%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "넥타이핀 커프스 세트",
+     "category": "액세서리",
+     "keyword": "넥타이핀",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "넥타이와 함께 사는 경우가 많고, 선물 상자 구성으로 연말 남성 선물 수요를 잡을 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%84%A5%ED%83%80%EC%9D%B4%ED%95%80",
+     "estimated": true
+    },
+    {
+     "name": "남성 비즈니스 양말 선물세트 5족",
+     "category": "패션잡화",
+     "keyword": "양말 선물세트",
+     "reviews": 20000,
+     "rating": 4.7,
+     "priceMin": 12900,
+     "priceMax": 24900,
+     "reason": "연말·명절 선물 검색이 꾸준하고, 상자 포장 세트라 리뷰 사진이 잘 나와요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%96%91%EB%A7%90%20%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "남성 서류가방 (노트북 수납 브리프케이스)",
+     "category": "가방",
+     "keyword": "서류가방",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 24900,
+     "priceMax": 49900,
+     "reason": "직장인 선물·출근용 수요가 있는 고단가 가방이에요. 노트북 수납 칸을 강조하면 차별화하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%9C%EB%A5%98%EA%B0%80%EB%B0%A9",
+     "estimated": true
+    },
+    {
+     "name": "차량용 쓰레기통 (접이식)",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 쓰레기통",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "운전자 필수 소품으로 검색량이 크고, 차량용 방향제와 함께 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%EC%93%B0%EB%A0%88%EA%B8%B0%ED%86%B5",
+     "estimated": true
+    },
+    {
+     "name": "논슬립 벨벳 옷걸이 20개",
+     "category": "생활잡화",
+     "keyword": "논슬립 옷걸이",
+     "reviews": 50000,
+     "rating": 4.7,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "환절기 옷 정리 시즌에 검색이 늘고, 묶음 판매라 리뷰가 매우 빨리 쌓이는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%85%BC%EC%8A%AC%EB%A6%BD%20%EC%98%B7%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "우드 헤어 비녀 (헤어스틱)",
+     "category": "헤어 액세서리",
+     "keyword": "헤어 비녀",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "간편 올림머리 액세서리로 검색이 꾸준하고, 경쟁이 비교적 덜한 틈새 상품이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%97%A4%EC%96%B4%20%EB%B9%84%EB%85%80",
+     "estimated": true
+    },
+    {
+     "name": "니트 텀블러 파우치 (손잡이형)",
+     "category": "생활잡화",
+     "keyword": "텀블러 파우치",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "겨울에 따뜻한 음료를 들고 다니는 수요로 검색이 오르고, 가볍고 작아 배송비 부담이 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%85%80%EB%B8%94%EB%9F%AC%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "대형 크리스마스 양말 장식",
+     "category": "시즌잡화",
+     "keyword": "크리스마스 양말 장식",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "12월 인테리어·선물 포장 수요로 11월부터 검색이 오르기 시작해요. 지금 등록하면 성수기 전에 리뷰를 쌓을 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%96%91%EB%A7%90%20%EC%9E%A5%EC%8B%9D",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-21",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
