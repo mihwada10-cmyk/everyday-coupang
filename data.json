@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-10-23",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "에코퍼 클러치백 (체인 스트랩)",
+     "category": "가방",
+     "keyword": "퍼 클러치",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 14900,
+     "priceMax": 29900,
+     "reason": "연말 모임·파티룩 가방으로 11~12월 검색이 오르고, 체인 스트랩 겸용이라 활용도를 강조하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8D%BC%20%ED%81%B4%EB%9F%AC%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "알루미늄 카라비너 키링 (2개 세트)",
+     "category": "액세서리",
+     "keyword": "카라비너",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "열쇠·텀블러·가방에 거는 다용도 소품이라 수요층이 넓고, 색상 세트로 객단가를 올리기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B9%B4%EB%9D%BC%EB%B9%84%EB%84%88",
+     "estimated": true
+    },
+    {
+     "name": "대용량 파우치형 필통",
+     "category": "문구잡화",
+     "keyword": "필통",
+     "reviews": 30000,
+     "rating": 4.7,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "학생·직장인이 꾸준히 사는 기본 문구잡화이고, 화장품 파우치 대용으로도 써서 구매층이 넓어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%95%84%ED%86%B5",
+     "estimated": true
+    },
+    {
+     "name": "골드톤 스카프 링 (스카프 고정용)",
+     "category": "액세서리",
+     "keyword": "스카프 링",
+     "reviews": 3000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 8900,
+     "reason": "스카프를 사는 고객이 함께 찾는 틈새 액세서리라 경쟁이 적고, 쁘띠 스카프와 묶어 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8A%A4%EC%B9%B4%ED%94%84%20%EB%A7%81",
+     "estimated": true
+    },
+    {
+     "name": "남성 슬링백 (원숄더 크로스)",
+     "category": "가방",
+     "keyword": "슬링백",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 14900,
+     "priceMax": 29900,
+     "reason": "출퇴근·여행용 남성 가방으로 검색이 꾸준하고, 수납 칸과 방수 원단으로 차별화하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8A%AC%EB%A7%81%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "여행용 압축 파우치 (지퍼 압축)",
+     "category": "여행잡화",
+     "keyword": "압축 파우치",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "부피 큰 겨울옷을 줄여주는 상품이라 겨울 여행 시즌에 검색이 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%95%EC%B6%95%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "묶지 않는 탄성 신발끈",
+     "category": "패션잡화",
+     "keyword": "묶지않는 신발끈",
+     "reviews": 30000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 8900,
+     "reason": "운동화 사용자가 꾸준히 찾는 저단가 소품이고, 색상 옵션으로 묶음 판매가 잘 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AC%B6%EC%A7%80%EC%95%8A%EB%8A%94%20%EC%8B%A0%EB%B0%9C%EB%81%88",
+     "estimated": true
+    },
+    {
+     "name": "원목 벽걸이 열쇠 걸이",
+     "category": "생활잡화",
+     "keyword": "열쇠 걸이",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 15900,
+     "reason": "현관 정리 소품으로 이사·입주 시즌마다 검색이 오르고, 선반 겸용 디자인으로 차별화하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%B4%EC%87%A0%20%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "칸막이 양말 정리함 (속옷 겸용)",
+     "category": "생활잡화",
+     "keyword": "양말 정리함",
+     "reviews": 20000,
+     "rating": 4.7,
+     "priceMin": 5900,
+     "priceMax": 12900,
+     "reason": "환절기 옷장 정리 수요로 검색이 늘고, 묶음 판매라 리뷰가 빨리 쌓여요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%96%91%EB%A7%90%20%EC%A0%95%EB%A6%AC%ED%95%A8",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 산타 모자",
+     "category": "시즌잡화",
+     "keyword": "산타 모자",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 2900,
+     "priceMax": 8900,
+     "reason": "12월 파티·매장 장식 수요로 11월부터 검색이 오르기 시작해요. 크리스마스 머리띠와 함께 운영하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%82%B0%ED%83%80%20%EB%AA%A8%EC%9E%90",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-22",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
