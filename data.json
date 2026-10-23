@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-10-24",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "소가죽 키지갑 (열쇠 수납 지갑)",
+     "category": "패션잡화",
+     "keyword": "키지갑",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 8900,
+     "priceMax": 19900,
+     "reason": "열쇠·카드를 함께 넣는 소품으로 남녀 선물 수요가 있고, 경쟁이 비교적 덜한 틈새 상품이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%82%A4%EC%A7%80%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "맥세이프 마그네틱 링 홀더",
+     "category": "휴대폰 액세서리",
+     "keyword": "맥세이프 링",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "그립톡과 달리 붙였다 뗄 수 있어 수요층이 따로 있고, 기종 구분 없이 팔 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A7%A5%EC%84%B8%EC%9D%B4%ED%94%84%20%EB%A7%81",
+     "estimated": true
+    },
+    {
+     "name": "보냉·보온 미니 토트백",
+     "category": "생활잡화",
+     "keyword": "보냉백",
+     "reviews": 30000,
+     "rating": 4.7,
+     "priceMin": 6900,
+     "priceMax": 15900,
+     "reason": "출근·소풍용 사계절 수요가 있고, 겨울에는 보온 용도로 검색이 이어져요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B3%B4%EB%83%89%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "퀼팅 숄더백 (체인 장식)",
+     "category": "가방",
+     "keyword": "퀼팅백",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 16900,
+     "priceMax": 34900,
+     "reason": "가을·겨울 데일리 가방 트렌드로 검색이 꾸준하고, 색상 옵션으로 수요를 모으기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%80%BC%ED%8C%85%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "펠트 크리스마스 오너먼트 세트",
+     "category": "시즌잡화",
+     "keyword": "크리스마스 오너먼트",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "트리 장식 수요가 11월부터 오르기 시작해요. 지금 등록하면 성수기 전에 리뷰를 쌓을 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%98%A4%EB%84%88%EB%A8%BC%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "가죽 캐리어 네임택",
+     "category": "여행잡화",
+     "keyword": "네임택",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "여행 시즌 필수 소품이고, 앞서 고른 여권 지갑·목베개와 함께 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%84%A4%EC%9E%84%ED%83%9D",
+     "estimated": true
+    },
+    {
+     "name": "캐리어 고정 벨트 (잠금형)",
+     "category": "여행잡화",
+     "keyword": "캐리어 벨트",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 12900,
+     "reason": "겨울 해외여행 시즌에 검색이 늘고, 저단가라 여행잡화 묶음 구매가 잘 일어나요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BA%90%EB%A6%AC%EC%96%B4%20%EB%B2%A8%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "새틴 수면 헤어캡",
+     "category": "생활잡화",
+     "keyword": "수면 헤어캡",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "건조한 겨울철 머릿결 관리 수요로 검색이 오르고, 가볍고 작아 배송 부담이 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%88%98%EB%A9%B4%20%ED%97%A4%EC%96%B4%EC%BA%A1",
+     "estimated": true
+    },
+    {
+     "name": "에어태그 실리콘 케이스 (키링형)",
+     "category": "액세서리",
+     "keyword": "에어태그 케이스",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "분실 방지 수요가 꾸준하고, 가방·열쇠에 다는 키링형이라 가방 꾸미기 수요까지 잡을 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%90%EC%96%B4%ED%83%9C%EA%B7%B8%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "문걸이형 모자 걸이 (6구)",
+     "category": "생활잡화",
+     "keyword": "모자 걸이",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 13900,
+     "reason": "겨울 모자가 늘어나는 시즌에 정리 수요로 검색이 오르고, 설치가 쉬워 반품 사유가 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AA%A8%EC%9E%90%20%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-23",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
