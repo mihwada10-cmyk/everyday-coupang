@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-10-25",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "자수 와펜 패치 세트 (다리미 부착)",
+     "category": "패션잡화",
+     "keyword": "와펜",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "가방·옷 꾸미기 DIY 수요가 꾸준하고, 디자인 세트로 신상을 계속 낼 수 있는 저단가 상품이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%99%80%ED%8E%9C",
+     "estimated": true
+    },
+    {
+     "name": "핸드폰 크로스 가방 (카드 수납)",
+     "category": "가방",
+     "keyword": "핸드폰 가방",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "휴대폰과 카드만 들고 다니는 가벼운 외출용으로 검색량이 크고, 50대 이상 고객층도 넓어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%95%B8%EB%93%9C%ED%8F%B0%20%EA%B0%80%EB%B0%A9",
+     "estimated": true
+    },
+    {
+     "name": "에코퍼 볼 귀걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "퍼 귀걸이",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "겨울에만 검색이 오르는 시즌 주얼리라 지금 등록하면 12월까지 판매 기간을 확보할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8D%BC%20%EA%B7%80%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "여행용 신발 파우치 (방수)",
+     "category": "여행잡화",
+     "keyword": "신발 파우치",
+     "reviews": 15000,
+     "rating": 4.7,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "여행·헬스용으로 꾸준히 팔리고, 앞서 고른 압축 파우치·여행 파우치와 묶어 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8B%A0%EB%B0%9C%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "애플워치 범퍼 케이스 (강화유리 일체형)",
+     "category": "시계 액세서리",
+     "keyword": "애플워치 케이스",
+     "reviews": 30000,
+     "rating": 4.5,
+     "priceMin": 5900,
+     "priceMax": 13900,
+     "reason": "스트랩과 함께 사는 경우가 많고, 사이즈(mm) 옵션만 관리하면 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%A0%ED%94%8C%EC%9B%8C%EC%B9%98%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "겨울용 극세사 핸들 커버",
+     "category": "자동차 액세서리",
+     "keyword": "핸들 커버",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "기온이 떨어지면 검색이 급증하는 시즌 차량용품이고, 차량용 방향제·쓰레기통과 함께 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%95%B8%EB%93%A4%20%EC%BB%A4%EB%B2%84",
+     "estimated": true
+    },
+    {
+     "name": "메모리폼 차량용 목쿠션",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 목쿠션",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "장거리 운전자 수요로 사계절 팔리고, 연말 귀성·여행 시즌에 검색이 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%EB%AA%A9%EC%BF%A0%EC%85%98",
+     "estimated": true
+    },
+    {
+     "name": "2027 가죽 다이어리 (만년형 위클리)",
+     "category": "문구잡화",
+     "keyword": "2027 다이어리",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "11~12월에만 검색이 몰리는 시즌 문구라 지금 등록해 리뷰를 쌓아 두는 게 중요해요. 앞서 고른 북커버와 함께 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=2027%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EB%A6%AC",
+     "estimated": true
+    },
+    {
+     "name": "금속 책갈피 (각인 가능)",
+     "category": "문구잡화",
+     "keyword": "책갈피",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "저단가 선물용 소품으로 연말 검색이 오르고, 이니셜 각인 옵션으로 차별화하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B1%85%EA%B0%88%ED%94%BC",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 리스 (현관 장식)",
+     "category": "시즌잡화",
+     "keyword": "크리스마스 리스",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "11월 중순부터 검색이 급증하는 대표 시즌 상품이에요. 크리스마스 오너먼트와 함께 운영하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EB%A6%AC%EC%8A%A4",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-24",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
