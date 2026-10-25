@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-10-26",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "에코퍼 머리띠 (볼륨형)",
+     "category": "헤어 액세서리",
+     "keyword": "퍼 머리띠",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "겨울에만 검색이 오르는 시즌 헤어 액세서리라 지금 등록하면 12월까지 판매 기간을 확보할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8D%BC%20%EB%A8%B8%EB%A6%AC%EB%9D%A0",
+     "estimated": true
+    },
+    {
+     "name": "소프트 가죽 버킷백",
+     "category": "가방",
+     "keyword": "버킷백",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 17900,
+     "priceMax": 35900,
+     "reason": "가을·겨울 데일리 가방으로 2030 검색이 꾸준하고, 스트랩 옵션으로 숄더·크로스 겸용을 강조하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B2%84%ED%82%B7%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "투명 포토카드 홀더 (키링형)",
+     "category": "액세서리",
+     "keyword": "포카 홀더",
+     "reviews": 30000,
+     "rating": 4.7,
+     "priceMin": 2900,
+     "priceMax": 7900,
+     "reason": "10~20대 아이돌 팬 수요가 매우 크고 재구매가 잦아요. 저단가라 여러 개를 함께 사는 경우가 많아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8F%AC%EC%B9%B4%20%ED%99%80%EB%8D%94",
+     "estimated": true
+    },
+    {
+     "name": "포토카드 바인더 (4포켓 리필형)",
+     "category": "문구잡화",
+     "keyword": "포카 바인더",
+     "reviews": 20000,
+     "rating": 4.7,
+     "priceMin": 7900,
+     "priceMax": 16900,
+     "reason": "포카 홀더와 같은 고객층이 함께 찾는 상품이라 묶음 판매로 객단가를 올리기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8F%AC%EC%B9%B4%20%EB%B0%94%EC%9D%B8%EB%8D%94",
+     "estimated": true
+    },
+    {
+     "name": "접이식 원목 독서대",
+     "category": "문구잡화",
+     "keyword": "독서대",
+     "reviews": 30000,
+     "rating": 4.7,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "수험생·직장인 공부 수요로 사계절 검색이 크고, 각도 조절 기능으로 차별화하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%8F%85%EC%84%9C%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "니트 쿠션 커버 45×45",
+     "category": "생활잡화",
+     "keyword": "쿠션 커버",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 13900,
+     "reason": "겨울 인테리어 교체 시즌에 검색이 오르고, 가볍고 부피가 작아 배송비 부담이 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BF%A0%EC%85%98%20%EC%BB%A4%EB%B2%84",
+     "estimated": true
+    },
+    {
+     "name": "보석십자수 DIY 키트 (액자 포함)",
+     "category": "취미잡화",
+     "keyword": "보석십자수",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 16900,
+     "reason": "실내 활동이 늘어나는 겨울에 검색이 오르는 취미 상품이고, 도안 종류로 신상을 계속 낼 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B3%B4%EC%84%9D%EC%8B%AD%EC%9E%90%EC%88%98",
+     "estimated": true
+    },
+    {
+     "name": "남성 가죽 팔찌 (스틸 버클)",
+     "category": "주얼리 액세서리",
+     "keyword": "남자 팔찌",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 16900,
+     "reason": "남성 선물 검색이 연말까지 오르고, 써지컬 팔찌와 수요층이 달라 함께 운영하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%9E%90%20%ED%8C%94%EC%B0%8C",
+     "estimated": true
+    },
+    {
+     "name": "A4 서류 파우치 (클러치 겸용)",
+     "category": "가방",
+     "keyword": "서류 파우치",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 15900,
+     "reason": "직장인·학생이 꾸준히 찾는 실용 잡화이고, 노트북 파우치·서류가방과 함께 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%9C%EB%A5%98%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "DIY 어드벤트 캘린더 (빈 서랍형)",
+     "category": "시즌잡화",
+     "keyword": "어드벤트 캘린더",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 12900,
+     "priceMax": 29900,
+     "reason": "12월 1일부터 쓰는 상품이라 11월에 검색이 몰려요. 내용물 없이 직접 채우는 형태라 식품 규제 걱정이 없어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%96%B4%EB%93%9C%EB%B2%A4%ED%8A%B8%20%EC%BA%98%EB%A6%B0%EB%8D%94",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-25",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
