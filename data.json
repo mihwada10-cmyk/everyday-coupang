@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-10-27",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "원목 귀걸이 거치대 (스탠드형)",
+     "category": "액세서리 수납",
+     "keyword": "귀걸이 거치대",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "귀걸이를 많이 가진 고객이 함께 찾는 수납 소품이라 주얼리 상품과 묶어 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B7%80%EA%B1%B8%EC%9D%B4%20%EA%B1%B0%EC%B9%98%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "가방 바닥 받침 (형태 유지 쉐이퍼)",
+     "category": "가방 액세서리",
+     "keyword": "가방 받침",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "토트백·에코백 사용자가 찾는 틈새 상품이라 경쟁이 적고, 사이즈 옵션만 관리하면 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%80%EB%B0%A9%20%EB%B0%9B%EC%B9%A8",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 스틸 드롭 귀걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "드롭 귀걸이",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "연말 모임·하객룩 수요로 검색이 오르는 디자인이고, 기존 써지컬 주얼리와 세트로 팔 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%93%9C%EB%A1%AD%20%EA%B7%80%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "패브릭 수납 바구니 (접이식)",
+     "category": "생활잡화",
+     "keyword": "수납 바구니",
+     "reviews": 30000,
+     "rating": 4.7,
+     "priceMin": 6900,
+     "priceMax": 15900,
+     "reason": "겨울 옷·담요 정리 수요로 검색이 늘고, 사이즈 세트로 객단가를 올리기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%88%98%EB%82%A9%20%EB%B0%94%EA%B5%AC%EB%8B%88",
+     "estimated": true
+    },
+    {
+     "name": "원형 탁상 거울 (스탠드형)",
+     "category": "생활잡화",
+     "keyword": "탁상 거울",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 16900,
+     "reason": "사계절 꾸준히 팔리는 생활 소품이고, 손거울과 함께 운영하면 수요를 넓게 잡을 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%83%81%EC%83%81%20%EA%B1%B0%EC%9A%B8",
+     "estimated": true
+    },
+    {
+     "name": "탁상용 미니 크리스마스 트리 (30cm)",
+     "category": "시즌잡화",
+     "keyword": "미니 트리",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "1인 가구·사무실 장식 수요로 11월부터 검색이 급증해요. 오너먼트·리스와 함께 운영하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AF%B8%EB%8B%88%20%ED%8A%B8%EB%A6%AC",
+     "estimated": true
+    },
+    {
+     "name": "새틴 선물 포장 리본 (롤)",
+     "category": "포장 잡화",
+     "keyword": "선물 포장 리본",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 2900,
+     "priceMax": 7900,
+     "reason": "연말 선물 포장 시즌에 검색이 몰리고, 선물 포장 상자와 함께 팔면 객단가가 올라가요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%A0%EB%AC%BC%20%ED%8F%AC%EC%9E%A5%20%EB%A6%AC%EB%B3%B8",
+     "estimated": true
+    },
+    {
+     "name": "아이폰 투명 범퍼 케이스",
+     "category": "휴대폰 액세서리",
+     "keyword": "투명 범퍼 케이스",
+     "reviews": 50000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "검색량이 매우 큰 기본 상품이라 기종별 키워드로 노출을 노릴 수 있어요. 기종 옵션 관리가 필요해요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%88%AC%EB%AA%85%20%EB%B2%94%ED%8D%BC%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "면 발가락 양말 5족",
+     "category": "패션잡화",
+     "keyword": "발가락 양말",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 15900,
+     "reason": "땀·무좀 걱정으로 찾는 고객이 꾸준하고, 다족 세트라 재구매가 잘 일어나요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B0%9C%EA%B0%80%EB%9D%BD%20%EC%96%91%EB%A7%90",
+     "estimated": true
+    },
+    {
+     "name": "펠트 데스크 매트 (대형)",
+     "category": "사무잡화",
+     "keyword": "데스크 매트",
+     "reviews": 20000,
+     "rating": 4.7,
+     "priceMin": 7900,
+     "priceMax": 17900,
+     "reason": "재택·사무실 책상 꾸미기 수요가 크고, 손목 받침 마우스패드·노트북 거치대와 함께 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%8A%A4%ED%81%AC%20%EB%A7%A4%ED%8A%B8",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-26",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
