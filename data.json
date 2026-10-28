@@ -1,6 +1,258 @@
 {
  "days": [
   {
+   "date": "2026-10-29",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "골지 니트 양말 5켤레 세트",
+     "category": "패션잡화",
+     "keyword": "골지 양말",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 15900,
+     "reason": "사계절 판매되지만 겨울에 세트 구매가 늘어나요. 묶음 구성으로 객단가를 올리기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B3%A8%EC%A7%80%20%EC%96%91%EB%A7%90",
+     "estimated": true
+    },
+    {
+     "name": "캐릭터 인형 키링",
+     "category": "가방 액세서리",
+     "keyword": "인형 키링",
+     "reviews": 15000,
+     "rating": 4.7,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "가방 꾸미기 유행으로 10~20대 검색이 많고 연말 선물로도 잘 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9D%B8%ED%98%95%20%ED%82%A4%EB%A7%81",
+     "estimated": true
+    },
+    {
+     "name": "에코 퍼 목도리",
+     "category": "패션잡화",
+     "keyword": "퍼 목도리",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "한겨울을 앞두고 검색이 오르는 시즌템이고 코트·패딩과 함께 구매돼요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8D%BC%20%EB%AA%A9%EB%8F%84%EB%A6%AC",
+     "estimated": true
+    },
+    {
+     "name": "목걸이형 카드지갑 (사원증 겸용)",
+     "category": "지갑",
+     "keyword": "목걸이 카드지갑",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 13900,
+     "reason": "교통카드·사원증을 함께 넣는 실용템이라 직장인·학생 수요가 꾸준해요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AA%A9%EA%B1%B8%EC%9D%B4%20%EC%B9%B4%EB%93%9C%EC%A7%80%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "패딩 실내 슬리퍼",
+     "category": "패션잡화",
+     "keyword": "패딩 슬리퍼",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 7900,
+     "priceMax": 16900,
+     "reason": "겨울 실내용으로 기온이 내려가면 검색이 빠르게 늘어나요. 커플 세트로도 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8C%A8%EB%94%A9%20%EC%8A%AC%EB%A6%AC%ED%8D%BC",
+     "estimated": true
+    },
+    {
+     "name": "아이패드 스마트 커버 케이스",
+     "category": "모바일 액세서리",
+     "keyword": "아이패드 케이스",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "모델별 검색량이 크고 학생·직장인 수요가 사계절 이어지는 스테디셀러예요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 오르골 스노우볼",
+     "category": "시즌 소품",
+     "keyword": "스노우볼",
+     "reviews": 5000,
+     "rating": 4.7,
+     "priceMin": 9900,
+     "priceMax": 29900,
+     "reason": "연말 선물·인테리어 소품으로 11~12월에 검색이 크게 늘어나요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8A%A4%EB%85%B8%EC%9A%B0%EB%B3%BC",
+     "estimated": true
+    },
+    {
+     "name": "남자 가죽 장지갑",
+     "category": "지갑",
+     "keyword": "남자 장지갑",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 14900,
+     "priceMax": 39900,
+     "reason": "연말·명절 선물 수요가 있는 고단가 품목이라 박스 포장 옵션이 경쟁력이 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%9E%90%20%EC%9E%A5%EC%A7%80%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "보온 물주머니 (니트 커버)",
+     "category": "생활잡화",
+     "keyword": "보온 물주머니",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 5900,
+     "priceMax": 13900,
+     "reason": "전기 없이 쓰는 겨울 보온템으로 기온이 떨어질수록 찾는 사람이 많아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B3%B4%EC%98%A8%20%EB%AC%BC%EC%A3%BC%EB%A8%B8%EB%8B%88",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 커플 반지",
+     "category": "주얼리 액세서리",
+     "keyword": "커플 반지",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 29900,
+     "reason": "크리스마스·기념일을 앞두고 검색이 오르는 품목이라 각인 옵션이 있으면 유리해요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%8C%20%EB%B0%98%EC%A7%80",
+     "estimated": true
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "터치 가능 니트 장갑 (기모 안감)",
+     "category": "패션잡화",
+     "keyword": "니트 장갑",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 5900,
+     "priceMax": 12900,
+     "reason": "11월 첫 추위와 함께 검색이 급증하는 겨울 필수템이에요. 색상 옵션을 여러 개 두면 선택률이 올라가요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%8B%88%ED%8A%B8%20%EC%9E%A5%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "보온 방한 마스크 (귀걸이형)",
+     "category": "패션잡화",
+     "keyword": "방한 마스크",
+     "reviews": 20000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "출퇴근·라이딩용으로 겨울마다 반복 구매가 많고 가볍고 작아서 배송비 부담이 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B0%A9%ED%95%9C%20%EB%A7%88%EC%8A%A4%ED%81%AC",
+     "estimated": true
+    },
+    {
+     "name": "수능 합격 기원 키링",
+     "category": "가방 액세서리",
+     "keyword": "합격 키링",
+     "reviews": 3000,
+     "rating": 4.7,
+     "priceMin": 3900,
+     "priceMax": 8900,
+     "reason": "11월 수능을 앞두고 응원 선물 검색이 몰리는 단기 시즌템이라 지금 등록해야 노출 기간을 확보할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%95%A9%EA%B2%A9%20%ED%82%A4%EB%A7%81",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 가랜드 장식 (LED 포함)",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 가랜드",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 15900,
+     "reason": "11월 중순부터 연말 인테리어 수요가 커지는 품목이에요. 트리·리스 고객이 함께 찾아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EA%B0%80%EB%9E%9C%EB%93%9C",
+     "estimated": true
+    },
+    {
+     "name": "미니멀 가죽 숄더백",
+     "category": "가방",
+     "keyword": "가죽 숄더백",
+     "reviews": 20000,
+     "rating": 4.5,
+     "priceMin": 19900,
+     "priceMax": 45900,
+     "reason": "가을·겨울 코트와 어울리는 데일리 가방으로 객단가가 높고 선물 수요도 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%80%EC%A3%BD%20%EC%88%84%EB%8D%94%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "실크 터치 헤어 스카프",
+     "category": "헤어 액세서리",
+     "keyword": "헤어 스카프",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "머리끈·가방 장식으로 같이 쓰여 활용도가 높고 세트 구성으로 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%97%A4%EC%96%B4%20%EC%8A%A4%EC%B9%B4%ED%94%84",
+     "estimated": true
+    },
+    {
+     "name": "차량용 시트 틈새 수납함",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 틈새 수납함",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 14900,
+     "reason": "휴대폰·동전이 빠지는 불편을 해결하는 실용템이라 리뷰가 꾸준히 쌓여요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%ED%8B%88%EC%83%88%20%EC%88%98%EB%82%A9%ED%95%A8",
+     "estimated": true
+    },
+    {
+     "name": "갤럭시 버즈 실리콘 케이스",
+     "category": "모바일 액세서리",
+     "keyword": "갤럭시 버즈 케이스",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "모델별 키워드 검색이 많아 상품명에 모델명을 넣으면 노출에 유리해요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EB%B2%84%EC%A6%88%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "발열 보온 깔창 (기모)",
+     "category": "패션잡화",
+     "keyword": "보온 깔창",
+     "reviews": 10000,
+     "rating": 4.4,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "겨울 신발용으로 기온이 떨어질수록 검색이 늘어나고 사이즈 옵션 관리가 쉬워요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B3%B4%EC%98%A8%20%EA%B9%94%EC%B0%BD",
+     "estimated": true
+    },
+    {
+     "name": "남자 써지컬 체인 목걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "체인 목걸이 남자",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 19900,
+     "reason": "남성 액세서리 수요가 늘고 있고 연말 선물 키워드와 함께 검색돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B2%B4%EC%9D%B8%20%EB%AA%A9%EA%B1%B8%EC%9D%B4%20%EB%82%A8%EC%9E%90",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-27",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
