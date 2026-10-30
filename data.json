@@ -1,6 +1,258 @@
 {
  "days": [
   {
+   "date": "2026-10-31",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "가죽 스트랩 남자 손목시계",
+     "category": "시계",
+     "keyword": "남자 손목시계",
+     "reviews": 20000,
+     "rating": 4.5,
+     "priceMin": 19900,
+     "priceMax": 49900,
+     "reason": "연말·크리스마스 선물 검색이 몰리는 고단가 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%9E%90%20%EC%86%90%EB%AA%A9%EC%8B%9C%EA%B3%84",
+     "estimated": true
+    },
+    {
+     "name": "925 실버 데일리 귀걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "실버 귀걸이",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 19900,
+     "reason": "알레르기 걱정이 적은 소재라 재구매가 많고 연말 선물 수요도 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8B%A4%EB%B2%84%20%EA%B7%80%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "폭신한 퍼 키링 (폼폼)",
+     "category": "가방 액세서리",
+     "keyword": "퍼 키링",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "겨울마다 가방 꾸미기용으로 인기가 오르는 저단가 시즌템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8D%BC%20%ED%82%A4%EB%A7%81",
+     "estimated": true
+    },
+    {
+     "name": "카드 수납 미러 폰케이스",
+     "category": "모바일 액세서리",
+     "keyword": "미러 케이스",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 7900,
+     "priceMax": 16900,
+     "reason": "거울·카드 수납을 한 번에 해결해 여성 고객 반응이 좋고 기종별 검색이 많아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AF%B8%EB%9F%AC%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 선물 포장지 세트",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 포장지",
+     "reviews": 5000,
+     "rating": 4.7,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "12월 선물 시즌 직전 수요가 크고 리본·상자와 함께 구매돼요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%8F%AC%EC%9E%A5%EC%A7%80",
+     "estimated": true
+    },
+    {
+     "name": "여자 가죽 벨트 (슬림)",
+     "category": "패션잡화",
+     "keyword": "여자 벨트",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 7900,
+     "priceMax": 17900,
+     "reason": "코트·니트 코디용 수요가 있는 사계절 스테디셀러예요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%AC%EC%9E%90%20%EB%B2%A8%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "면 자수 손수건 세트",
+     "category": "패션잡화",
+     "keyword": "손수건",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "부담 없는 선물용으로 꾸준히 팔리고 이니셜 자수 옵션으로 차별화할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%86%90%EC%88%98%EA%B1%B4",
+     "estimated": true
+    },
+    {
+     "name": "원목 데스크 오거나이저",
+     "category": "데스크 잡화",
+     "keyword": "데스크 오거나이저",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "책상 정리 수요가 꾸준하고 신년 정리 시즌을 앞두고 검색이 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%8D%B0%EC%8A%A4%ED%81%AC%20%EC%98%A4%EA%B1%B0%EB%82%98%EC%9D%B4%EC%A0%80",
+     "estimated": true
+    },
+    {
+     "name": "포토 아크릴 키링 (주문 제작)",
+     "category": "가방 액세서리",
+     "keyword": "아크릴 키링",
+     "reviews": 20000,
+     "rating": 4.7,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "커플·팬덤·단체 선물 수요가 많고 연말에 주문이 늘어나요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%ED%81%AC%EB%A6%B4%20%ED%82%A4%EB%A7%81",
+     "estimated": true
+    },
+    {
+     "name": "2027 탁상 달력",
+     "category": "문구 잡화",
+     "keyword": "2027 탁상 달력",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "11~12월에만 수요가 몰리는 신년 시즌템이라 지금 등록해야 노출을 선점할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=2027%20%ED%83%81%EC%83%81%20%EB%8B%AC%EB%A0%A5",
+     "estimated": true
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "소가죽 미니 키링",
+     "category": "가방 액세서리",
+     "keyword": "가죽 키링",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "자동차 키·가방에 쓰는 스테디셀러이고 이니셜 각인 옵션으로 연말 선물 수요를 잡기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%80%EC%A3%BD%20%ED%82%A4%EB%A7%81",
+     "estimated": true
+    },
+    {
+     "name": "귀까지 덮는 털 모자",
+     "category": "모자",
+     "keyword": "털 모자",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 7900,
+     "priceMax": 16900,
+     "reason": "11월 추위가 시작되면 검색이 빠르게 늘어나는 겨울 모자예요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%84%B8%20%EB%AA%A8%EC%9E%90",
+     "estimated": true
+    },
+    {
+     "name": "목도리 장갑 선물 세트",
+     "category": "패션잡화",
+     "keyword": "목도리 장갑 세트",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 12900,
+     "priceMax": 24900,
+     "reason": "연말 선물용 세트 구성이라 객단가가 높고 선물 포장 옵션과 잘 맞아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AA%A9%EB%8F%84%EB%A6%AC%20%EC%9E%A5%EA%B0%91%20%EC%84%B8%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 트리 전구 (USB·건전지)",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 트리 전구",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "11월 초부터 트리 꾸미기 수요가 시작돼서 지금 등록하면 노출 기간을 충분히 확보할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%8A%B8%EB%A6%AC%20%EC%A0%84%EA%B5%AC",
+     "estimated": true
+    },
+    {
+     "name": "꽈배기 니트 숄더백",
+     "category": "가방",
+     "keyword": "니트 가방",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 12900,
+     "priceMax": 25900,
+     "reason": "가을·겨울 코디용으로 인기가 오르는 가방이고 색상 옵션으로 경쟁하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%8B%88%ED%8A%B8%20%EA%B0%80%EB%B0%A9",
+     "estimated": true
+    },
+    {
+     "name": "미니멀 여자 손목시계",
+     "category": "시계",
+     "keyword": "여자 손목시계",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 14900,
+     "priceMax": 39900,
+     "reason": "연말 선물 수요가 있는 고단가 액세서리라 박스 포장 옵션이 경쟁력이 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%AC%EC%9E%90%20%EC%86%90%EB%AA%A9%EC%8B%9C%EA%B3%84",
+     "estimated": true
+    },
+    {
+     "name": "신축성 캐리어 커버",
+     "category": "여행잡화",
+     "keyword": "캐리어 커버",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 16900,
+     "reason": "연말·겨울방학 해외여행 수요를 앞두고 검색이 오르는 여행 잡화예요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BA%90%EB%A6%AC%EC%96%B4%20%EC%BB%A4%EB%B2%84",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 원석 펜던트 목걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "펜던트 목걸이",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 19900,
+     "reason": "연말 모임·선물 시즌에 검색이 오르고 탄생석 옵션으로 차별화하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8E%9C%EB%8D%98%ED%8A%B8%20%EB%AA%A9%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "벨벳 리본 머리끈",
+     "category": "헤어 액세서리",
+     "keyword": "리본 머리끈",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 8900,
+     "reason": "겨울 소재 리본 헤어 액세서리가 유행이고 저단가라 묶음 판매가 잘 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A6%AC%EB%B3%B8%20%EB%A8%B8%EB%A6%AC%EB%81%88",
+     "estimated": true
+    },
+    {
+     "name": "부드러운 니트 숄",
+     "category": "패션잡화",
+     "keyword": "니트 숄",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "사무실·실내 보온용으로 겨울에 꾸준히 찾고 담요 대용 선물로도 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%8B%88%ED%8A%B8%20%EC%88%84",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-29",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
