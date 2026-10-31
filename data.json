@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-01",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "트위드 미니 토트백",
+     "category": "가방",
+     "keyword": "트위드 백",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 15900,
+     "priceMax": 32900,
+     "reason": "겨울·연말 모임룩으로 검색이 오르는 가방이라 지금이 등록하기 좋은 시점이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8A%B8%EC%9C%84%EB%93%9C%20%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "울 혼방 니트 목도리",
+     "category": "패션잡화",
+     "keyword": "니트 목도리",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 8900,
+     "priceMax": 19900,
+     "reason": "한겨울을 앞두고 수요가 커지는 기본템이고 커플·선물 구매가 많아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%8B%88%ED%8A%B8%20%EB%AA%A9%EB%8F%84%EB%A6%AC",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 테이블보",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 테이블보",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "연말 홈파티 준비 수요로 11월 중순부터 검색이 늘어나요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%85%8C%EC%9D%B4%EB%B8%94%EB%B3%B4",
+     "estimated": true
+    },
+    {
+     "name": "방수 세면 파우치 (걸이형)",
+     "category": "여행잡화",
+     "keyword": "세면 파우치",
+     "reviews": 15000,
+     "rating": 4.7,
+     "priceMin": 6900,
+     "priceMax": 15900,
+     "reason": "겨울방학·연말 여행 수요가 있고 걸이형은 리뷰 만족도가 높아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%B8%EB%A9%B4%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "갤럭시 워치 스트랩",
+     "category": "모바일 액세서리",
+     "keyword": "갤럭시 워치 스트랩",
+     "reviews": 20000,
+     "rating": 4.5,
+     "priceMin": 5900,
+     "priceMax": 15900,
+     "reason": "모델별 검색이 많은 소모품이라 재구매가 꾸준해요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EC%9B%8C%EC%B9%98%20%EC%8A%A4%ED%8A%B8%EB%9E%A9",
+     "estimated": true
+    },
+    {
+     "name": "진주 헤어핀 세트",
+     "category": "헤어 액세서리",
+     "keyword": "진주 헤어핀",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "연말 모임용 헤어 액세서리로 수요가 오르고 저단가 묶음 판매가 잘 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%A7%84%EC%A3%BC%20%ED%97%A4%EC%96%B4%ED%95%80",
+     "estimated": true
+    },
+    {
+     "name": "남자 가죽 카드지갑",
+     "category": "지갑",
+     "keyword": "남자 카드지갑",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 29900,
+     "reason": "연말 선물 키워드와 함께 검색되는 품목이라 선물 박스 옵션이 유리해요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%9E%90%20%EC%B9%B4%EB%93%9C%EC%A7%80%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "헤드폰 하드 케이스",
+     "category": "모바일 액세서리",
+     "keyword": "헤드폰 파우치",
+     "reviews": 8000,
+     "rating": 4.7,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "무선 헤드폰 보급으로 수요가 늘었고 모델별 키워드로 노출을 노릴 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%97%A4%EB%93%9C%ED%8F%B0%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 미니 피어싱 세트",
+     "category": "주얼리 액세서리",
+     "keyword": "써지컬 피어싱",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "10~20대 재구매가 많은 저단가 주얼리라 묶음 구성으로 객단가를 올리기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8D%A8%EC%A7%80%EC%BB%AC%20%ED%94%BC%EC%96%B4%EC%8B%B1",
+     "estimated": true
+    },
+    {
+     "name": "책상용 가방 걸이",
+     "category": "생활잡화",
+     "keyword": "가방 걸이",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "사무실·학교에서 쓰는 실용템이라 리뷰가 꾸준히 쌓이고 배송 부담이 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%80%EB%B0%A9%20%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-10-31",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
