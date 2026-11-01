@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-02",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "에코 퍼 방한 장갑",
+     "category": "패션잡화",
+     "keyword": "퍼 장갑",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 7900,
+     "priceMax": 16900,
+     "reason": "11월 들어 검색이 빠르게 늘어나는 겨울 장갑이고 선물용으로도 많이 사요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8D%BC%20%EC%9E%A5%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 데코 스티커 세트",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 스티커",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 2900,
+     "priceMax": 7900,
+     "reason": "선물 포장·카드 꾸미기용으로 12월 전에 수요가 몰리는 저단가 시즌템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%8A%A4%ED%8B%B0%EC%BB%A4",
+     "estimated": true
+    },
+    {
+     "name": "소가죽 멀티 파우치",
+     "category": "파우치",
+     "keyword": "가죽 파우치",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "가방 속 정리용 실용템이라 사계절 팔리고 연말 선물 수요도 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%80%EC%A3%BD%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "남자 캐시미어 터치 머플러",
+     "category": "패션잡화",
+     "keyword": "남자 머플러",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 12900,
+     "priceMax": 29900,
+     "reason": "연말 남성 선물 1순위 키워드 중 하나라 지금부터 검색이 오르기 시작해요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%9E%90%20%EB%A8%B8%ED%94%8C%EB%9F%AC",
+     "estimated": true
+    },
+    {
+     "name": "큐빅 드롭 귀걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "큐빅 귀걸이",
+     "reviews": 20000,
+     "rating": 4.5,
+     "priceMin": 4900,
+     "priceMax": 14900,
+     "reason": "연말 파티·모임 시즌에 검색이 늘어나는 화려한 주얼리예요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%90%EB%B9%85%20%EA%B7%80%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "아이폰 투명 맥세이프 케이스",
+     "category": "모바일 액세서리",
+     "keyword": "아이폰 케이스",
+     "reviews": 50000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "검색량이 가장 큰 모바일 액세서리라 모델명을 정확히 넣으면 꾸준히 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EC%9D%B4%ED%8F%B0%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "자동차 가죽 키링",
+     "category": "자동차 액세서리",
+     "keyword": "자동차 키링",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "차종 로고·이니셜 옵션으로 선물 수요를 잡기 좋은 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9E%90%EB%8F%99%EC%B0%A8%20%ED%82%A4%EB%A7%81",
+     "estimated": true
+    },
+    {
+     "name": "여행용 멀티 어댑터 (USB-C)",
+     "category": "여행잡화",
+     "keyword": "멀티 어댑터",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "연말·겨울방학 해외여행 준비 수요로 검색이 오르는 필수 여행템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A9%80%ED%8B%B0%20%EC%96%B4%EB%8C%91%ED%84%B0",
+     "estimated": true
+    },
+    {
+     "name": "무광 실핀 세트",
+     "category": "헤어 액세서리",
+     "keyword": "실핀 세트",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 6900,
+     "reason": "소모품이라 재구매가 많고 저단가라 묶음 구성으로 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8B%A4%ED%95%80%20%EC%84%B8%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "꽈배기 니트 파우치",
+     "category": "파우치",
+     "keyword": "니트 파우치",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 13900,
+     "reason": "겨울 소재 파우치라 계절감이 있고 화장품 없이 소지품 정리용으로 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%8B%88%ED%8A%B8%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-01",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
