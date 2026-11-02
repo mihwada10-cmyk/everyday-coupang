@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-03",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "폭신한 퍼 머리끈",
+     "category": "헤어 액세서리",
+     "keyword": "퍼 머리끈",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 7900,
+     "reason": "겨울마다 유행하는 소재라 지금 수요가 오르고 저단가 묶음 판매가 잘 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8D%BC%20%EB%A8%B8%EB%A6%AC%EB%81%88",
+     "estimated": true
+    },
+    {
+     "name": "산타 인형 장식",
+     "category": "시즌 소품",
+     "keyword": "산타 인형",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 19900,
+     "reason": "11월 중순부터 크리스마스 인테리어 수요가 커지는 시즌 소품이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%82%B0%ED%83%80%20%EC%9D%B8%ED%98%95",
+     "estimated": true
+    },
+    {
+     "name": "가죽 새들백",
+     "category": "가방",
+     "keyword": "새들백",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 19900,
+     "priceMax": 42900,
+     "reason": "가을·겨울 코디용으로 인기 있는 가방이라 객단가가 높아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%83%88%EB%93%A4%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "울 페도라 모자",
+     "category": "모자",
+     "keyword": "페도라",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 12900,
+     "priceMax": 29900,
+     "reason": "코트 코디용 겨울 모자로 검색이 오르고 경쟁이 비교적 덜해요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8E%98%EB%8F%84%EB%9D%BC",
+     "estimated": true
+    },
+    {
+     "name": "925 실버 데일리 반지",
+     "category": "주얼리 액세서리",
+     "keyword": "실버 반지",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "연말 선물·커플 수요가 있는 스테디셀러이고 사이즈 옵션 관리만 하면 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8B%A4%EB%B2%84%20%EB%B0%98%EC%A7%80",
+     "estimated": true
+    },
+    {
+     "name": "데스크 케이블 클립",
+     "category": "데스크 잡화",
+     "keyword": "케이블 클립",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 7900,
+     "reason": "책상 정리 실용템이라 리뷰가 많이 쌓이고 저단가 묶음 구성이 잘 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%ED%81%B4%EB%A6%BD",
+     "estimated": true
+    },
+    {
+     "name": "선물용 쇼핑백 세트",
+     "category": "시즌 소품",
+     "keyword": "선물 쇼핑백",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "연말 선물 시즌을 앞두고 포장 수요가 커져요. 포장지·리본과 함께 구매돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%A0%EB%AC%BC%20%EC%87%BC%ED%95%91%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "남자 커프스 버튼",
+     "category": "주얼리 액세서리",
+     "keyword": "커프스 버튼",
+     "reviews": 3000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "연말 모임·결혼식 시즌 수요가 있고 경쟁이 적은 남성 액세서리예요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%84%EC%8A%A4%20%EB%B2%84%ED%8A%BC",
+     "estimated": true
+    },
+    {
+     "name": "925 실버 체인 팔찌",
+     "category": "주얼리 액세서리",
+     "keyword": "실버 팔찌",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "선물용으로 꾸준히 팔리고 연말에 검색이 오르는 주얼리예요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8B%A4%EB%B2%84%20%ED%8C%94%EC%B0%8C",
+     "estimated": true
+    },
+    {
+     "name": "크록스 신발 지비츠 세트",
+     "category": "패션잡화",
+     "keyword": "지비츠",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 9900,
+     "reason": "10~20대 재구매가 많고 캐릭터·시즌 테마로 계속 새 상품을 낼 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%A7%80%EB%B9%84%EC%B8%A0",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-02",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
