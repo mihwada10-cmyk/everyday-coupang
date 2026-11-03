@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-04",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "크리스마스 카드 세트 (봉투 포함)",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 카드",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 2900,
+     "priceMax": 9900,
+     "reason": "12월 직전에 수요가 몰리는 저단가 시즌템이라 지금 등록해야 노출 기간을 확보할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%B9%B4%EB%93%9C",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 하트 목걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "하트 목걸이",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 17900,
+     "reason": "크리스마스·기념일 선물 검색이 오르는 대표 디자인이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%95%98%ED%8A%B8%20%EB%AA%A9%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "미니멀 가죽 백팩",
+     "category": "가방",
+     "keyword": "가죽 백팩",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 24900,
+     "priceMax": 49900,
+     "reason": "겨울 출근·여행용으로 객단가가 높고 노트북 백팩과 다른 고객층을 노릴 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%80%EC%A3%BD%20%EB%B0%B1%ED%8C%A9",
+     "estimated": true
+    },
+    {
+     "name": "갤럭시 Z플립 케이스",
+     "category": "모바일 액세서리",
+     "keyword": "Z플립 케이스",
+     "reviews": 30000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 16900,
+     "reason": "모델별 검색량이 큰 품목이라 기종명을 상품명에 정확히 넣으면 노출에 유리해요.",
+     "link": "https://www.coupang.com/np/search?q=Z%ED%94%8C%EB%A6%BD%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "차량용 선글라스 홀더",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 선글라스 홀더",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 8900,
+     "reason": "썬바이저에 끼우는 저단가 실용템이라 리뷰가 꾸준히 쌓여요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%EC%84%A0%EA%B8%80%EB%9D%BC%EC%8A%A4%20%ED%99%80%EB%8D%94",
+     "estimated": true
+    },
+    {
+     "name": "무소음 탁상 시계",
+     "category": "생활잡화",
+     "keyword": "탁상 시계",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "신년 책상 정리·선물 수요가 있고 무소음 키워드 검색이 많아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%83%81%EC%83%81%20%EC%8B%9C%EA%B3%84",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 LED 무드등",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 무드등",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "연말 선물·인테리어 겸용이라 11~12월에 검색이 크게 늘어나요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EB%AC%B4%EB%93%9C%EB%93%B1",
+     "estimated": true
+    },
+    {
+     "name": "담수진주 스타일 팔찌",
+     "category": "주얼리 액세서리",
+     "keyword": "진주 팔찌",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 17900,
+     "reason": "연말 모임 시즌에 진주 액세서리 검색이 함께 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%A7%84%EC%A3%BC%20%ED%8C%94%EC%B0%8C",
+     "estimated": true
+    },
+    {
+     "name": "접이식 여행용 슬리퍼",
+     "category": "여행잡화",
+     "keyword": "여행용 슬리퍼",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "겨울방학·연말 여행 수요로 검색이 오르고 가벼워서 배송 부담이 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EC%9A%A9%20%EC%8A%AC%EB%A6%AC%ED%8D%BC",
+     "estimated": true
+    },
+    {
+     "name": "대용량 보스턴백",
+     "category": "가방",
+     "keyword": "보스턴백",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 19900,
+     "priceMax": 39900,
+     "reason": "연말·명절 귀성과 여행 수요로 겨울에 판매가 늘어나는 가방이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B3%B4%EC%8A%A4%ED%84%B4%EB%B0%B1",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-03",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
