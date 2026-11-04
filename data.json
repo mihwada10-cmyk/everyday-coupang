@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-05",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "니트 손가락 장갑 (핑거리스)",
+     "category": "패션잡화",
+     "keyword": "손가락 장갑",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "실내·사무실용 방한템으로 겨울에 검색이 늘고 터치 장갑과 다른 수요를 잡을 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%86%90%EA%B0%80%EB%9D%BD%20%EC%9E%A5%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "뽀글이 퍼 크로스백",
+     "category": "가방",
+     "keyword": "퍼 크로스백",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 12900,
+     "priceMax": 25900,
+     "reason": "겨울 시즌 소재 가방이라 11~12월에 판매가 집중돼요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8D%BC%20%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "펠트 크리스마스 벽트리",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 벽트리",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "공간이 좁은 집이나 아이 있는 집에서 많이 찾는 연말 장식이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EB%B2%BD%ED%8A%B8%EB%A6%AC",
+     "estimated": true
+    },
+    {
+     "name": "캐주얼 메신저백",
+     "category": "가방",
+     "keyword": "메신저백",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 15900,
+     "priceMax": 34900,
+     "reason": "남녀 공용 데일리 가방이라 구매층이 넓고 겨울 외투와 함께 많이 찾아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A9%94%EC%8B%A0%EC%A0%80%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "14K 골드 데일리 귀걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "14k 귀걸이",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 19900,
+     "priceMax": 59900,
+     "reason": "연말 선물용 고단가 주얼리라 선물 박스 옵션으로 경쟁력을 높일 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=14k%20%EA%B7%80%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "애플펜슬 실리콘 케이스",
+     "category": "모바일 액세서리",
+     "keyword": "애플펜슬 케이스",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "아이패드 구매자가 함께 찾는 저단가 액세서리라 묶음 판매가 잘 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%A0%ED%94%8C%ED%8E%9C%EC%8A%AC%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "차량용 성에 제거 스크래퍼",
+     "category": "자동차 액세서리",
+     "keyword": "성에 제거",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "첫 서리가 내리는 11월부터 검색이 급증하는 겨울 차량 필수템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%B1%EC%97%90%20%EC%A0%9C%EA%B1%B0",
+     "estimated": true
+    },
+    {
+     "name": "패딩 소재 미니 파우치",
+     "category": "파우치",
+     "keyword": "패딩 파우치",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 14900,
+     "reason": "겨울 소재라 계절감이 있고 패딩 가방과 같은 고객층이 찾아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8C%A8%EB%94%A9%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "입문용 만년필 선물세트",
+     "category": "문구 잡화",
+     "keyword": "만년필",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 29900,
+     "reason": "연말·신년 선물 수요가 있는 품목이고 각인 옵션으로 차별화하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A7%8C%EB%85%84%ED%95%84",
+     "estimated": true
+    },
+    {
+     "name": "벨벳 패딩 머리띠",
+     "category": "헤어 액세서리",
+     "keyword": "벨벳 머리띠",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "겨울 소재 헤어 액세서리라 연말 모임 시즌에 검색이 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B2%A8%EB%B2%B3%20%EB%A8%B8%EB%A6%AC%EB%9D%A0",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-04",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
