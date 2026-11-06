@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-07",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "방수 스키 장갑",
+     "category": "패션잡화",
+     "keyword": "스키 장갑",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 14900,
+     "priceMax": 34900,
+     "reason": "12월 스키 시즌 개장을 앞두고 11월부터 검색이 오르는 시즌템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%82%A4%20%EC%9E%A5%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 패턴 앞치마",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 앞치마",
+     "reviews": 3000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 16900,
+     "reason": "연말 홈파티·카페 이벤트용 수요가 있고 경쟁이 적은 틈새 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%95%9E%EC%B9%98%EB%A7%88",
+     "estimated": true
+    },
+    {
+     "name": "가죽 미니 토트백",
+     "category": "가방",
+     "keyword": "미니 토트백",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 14900,
+     "priceMax": 32900,
+     "reason": "연말 모임룩으로 많이 찾는 작은 가방이라 겨울에 판매가 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AF%B8%EB%8B%88%20%ED%86%A0%ED%8A%B8%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "갤럭시탭 북커버 케이스",
+     "category": "모바일 액세서리",
+     "keyword": "갤럭시탭 케이스",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "학생·직장인 수요가 꾸준하고 모델별 검색이 많아 노출을 노리기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%A4%EB%9F%AD%EC%8B%9C%ED%83%AD%20%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 레이어드 목걸이 세트",
+     "category": "주얼리 액세서리",
+     "keyword": "레이어드 목걸이",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 16900,
+     "reason": "세트 구성이라 객단가가 높고 연말 선물 시즌에 검색이 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A0%88%EC%9D%B4%EC%96%B4%EB%93%9C%20%EB%AA%A9%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "가방 장식 백참",
+     "category": "가방 액세서리",
+     "keyword": "백참",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 15900,
+     "reason": "가방 꾸미기 유행이 이어지고 있고 키링과 다른 고급 장식 수요를 잡을 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B0%B1%EC%B0%B8",
+     "estimated": true
+    },
+    {
+     "name": "차량용 확장 컵홀더",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 컵홀더",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "겨울철 따뜻한 음료 텀블러용으로 찾는 실용템이라 리뷰가 꾸준해요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%EC%BB%B5%ED%99%80%EB%8D%94",
+     "estimated": true
+    },
+    {
+     "name": "원목 탁상 액자",
+     "category": "생활잡화",
+     "keyword": "탁상 액자",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 5900,
+     "priceMax": 15900,
+     "reason": "연말 사진 선물과 신년 책상 꾸미기 수요가 겹치는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%83%81%EC%83%81%20%EC%95%A1%EC%9E%90",
+     "estimated": true
+    },
+    {
+     "name": "아동 리본 머리띠 세트",
+     "category": "헤어 액세서리",
+     "keyword": "아동 머리띠",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "아이 연말 행사·사진 촬영 수요가 있고 세트 구성으로 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EB%8F%99%20%EB%A8%B8%EB%A6%AC%EB%9D%A0",
+     "estimated": true
+    },
+    {
+     "name": "체크 패턴 미니 숄더백",
+     "category": "가방",
+     "keyword": "체크 가방",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 12900,
+     "priceMax": 25900,
+     "reason": "겨울 체크 패턴 유행으로 검색이 오르는 시즌 가방이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B2%B4%ED%81%AC%20%EA%B0%80%EB%B0%A9",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-06",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
