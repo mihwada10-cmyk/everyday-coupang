@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-08",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "기능성 스키 양말",
+     "category": "패션잡화",
+     "keyword": "스키 양말",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 6900,
+     "priceMax": 15900,
+     "reason": "12월 스키 시즌을 앞두고 장갑·고글과 함께 검색이 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%82%A4%20%EC%96%91%EB%A7%90",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 현관 매트",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 현관 매트",
+     "reviews": 3000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "연말 집 꾸미기 수요로 11월 중순부터 검색이 커지는 틈새 시즌템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%98%84%EA%B4%80%20%EB%A7%A4%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "남자 가죽 클러치백",
+     "category": "가방",
+     "keyword": "남자 클러치",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 15900,
+     "priceMax": 39900,
+     "reason": "연말 모임·선물 수요가 있는 고단가 남성 가방이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%9E%90%20%ED%81%B4%EB%9F%AC%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "보조배터리 수납 파우치",
+     "category": "모바일 액세서리",
+     "keyword": "보조배터리 파우치",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "충전기·케이블을 함께 넣는 실용템이라 여행·출장 고객이 꾸준히 찾아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B3%B4%EC%A1%B0%EB%B0%B0%ED%84%B0%EB%A6%AC%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    },
+    {
+     "name": "진주 장식 머리끈",
+     "category": "헤어 액세서리",
+     "keyword": "진주 머리끈",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 7900,
+     "reason": "연말 모임용 헤어 액세서리로 수요가 오르고 저단가 묶음 판매가 잘 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%A7%84%EC%A3%BC%20%EB%A8%B8%EB%A6%AC%EB%81%88",
+     "estimated": true
+    },
+    {
+     "name": "남자 써지컬 반지",
+     "category": "주얼리 액세서리",
+     "keyword": "남자 반지",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 19900,
+     "reason": "남성 액세서리 수요가 늘고 있고 연말 선물 키워드와 함께 검색돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%9E%90%20%EB%B0%98%EC%A7%80",
+     "estimated": true
+    },
+    {
+     "name": "방울 니트 비니",
+     "category": "모자",
+     "keyword": "방울 비니",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 15900,
+     "reason": "겨울 대표 모자로 커플·아동 옵션까지 확장하기 쉬운 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B0%A9%EC%9A%B8%20%EB%B9%84%EB%8B%88",
+     "estimated": true
+    },
+    {
+     "name": "차량용 시트 후크",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 후크",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 7900,
+     "reason": "가방·쇼핑백을 거는 저단가 실용템이라 리뷰가 많이 쌓여요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%ED%9B%84%ED%81%AC",
+     "estimated": true
+    },
+    {
+     "name": "감성 포토 앨범",
+     "category": "생활잡화",
+     "keyword": "포토 앨범",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "연말 추억 정리·커플 선물 수요가 있는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8F%AC%ED%86%A0%20%EC%95%A8%EB%B2%94",
+     "estimated": true
+    },
+    {
+     "name": "김서림 방지 스키 고글",
+     "category": "스포츠 잡화",
+     "keyword": "스키 고글",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 19900,
+     "priceMax": 49900,
+     "reason": "스키장 개장 시즌에 맞춰 11월부터 검색이 크게 늘어나는 고단가 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%82%A4%20%EA%B3%A0%EA%B8%80",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-07",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
