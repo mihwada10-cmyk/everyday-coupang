@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-11",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "커플 이니셜 키링 세트",
+     "category": "가방 액세서리",
+     "keyword": "커플 키링",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "기념일·크리스마스 커플 선물 수요가 많고 각인 옵션으로 차별화하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%8C%20%ED%82%A4%EB%A7%81",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 커플 팔찌",
+     "category": "주얼리 액세서리",
+     "keyword": "커플 팔찌",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "연말 커플 선물 시즌에 검색이 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BB%A4%ED%94%8C%20%ED%8C%94%EC%B0%8C",
+     "estimated": true
+    },
+    {
+     "name": "울 소재 버킷햇",
+     "category": "모자",
+     "keyword": "울 버킷햇",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "겨울 소재 버킷햇은 경쟁이 비교적 적고 코트 코디 수요가 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9A%B8%20%EB%B2%84%ED%82%B7%ED%96%87",
+     "estimated": true
+    },
+    {
+     "name": "여자 가죽 크로스백",
+     "category": "가방",
+     "keyword": "여자 크로스백",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 14900,
+     "priceMax": 34900,
+     "reason": "검색량이 큰 대표 가방 키워드라 꾸준히 팔리는 스테디셀러예요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%AC%EC%9E%90%20%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "비즈 폰줄 스트랩",
+     "category": "모바일 액세서리",
+     "keyword": "비즈 폰줄",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "10~20대 꾸미기 유행템이라 색상 조합을 바꿔 계속 신상품을 낼 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B9%84%EC%A6%88%20%ED%8F%B0%EC%A4%84",
+     "estimated": true
+    },
+    {
+     "name": "천연 원석 팔찌",
+     "category": "주얼리 액세서리",
+     "keyword": "원석 팔찌",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 15900,
+     "reason": "신년 운세·탄생석 수요로 연말연시에 검색이 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9B%90%EC%84%9D%20%ED%8C%94%EC%B0%8C",
+     "estimated": true
+    },
+    {
+     "name": "자동차 앞유리 성에 방지 커버",
+     "category": "자동차 액세서리",
+     "keyword": "앞유리 커버",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "아침 성에·눈을 막는 겨울 필수템으로 11월부터 검색이 급증해요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%9E%EC%9C%A0%EB%A6%AC%20%EC%BB%A4%EB%B2%84",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 패턴 커튼",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 커튼",
+     "reviews": 3000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "연말 인테리어 수요로 검색이 오르고 판매자가 적은 틈새 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EC%BB%A4%ED%8A%BC",
+     "estimated": true
+    },
+    {
+     "name": "원목 모니터 받침대",
+     "category": "데스크 잡화",
+     "keyword": "모니터 받침대",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 12900,
+     "priceMax": 29900,
+     "reason": "책상 정리 수요가 꾸준하고 신년 정리 시즌에 판매가 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AA%A8%EB%8B%88%ED%84%B0%20%EB%B0%9B%EC%B9%A8%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "여자 데일리 양말 10켤레 세트",
+     "category": "패션잡화",
+     "keyword": "여자 양말 세트",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "소모품이라 재구매가 많고 묶음 구성으로 객단가를 올리기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%AC%EC%9E%90%20%EC%96%91%EB%A7%90%20%EC%84%B8%ED%8A%B8",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-10",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
