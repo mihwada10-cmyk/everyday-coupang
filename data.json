@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-12",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "니트 손목 워머",
+     "category": "패션잡화",
+     "keyword": "손목 워머",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "키보드·마우스 쓰는 직장인 겨울 보온템이라 사무실 수요가 꾸준해요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%86%90%EB%AA%A9%20%EC%9B%8C%EB%A8%B8",
+     "estimated": true
+    },
+    {
+     "name": "크리스마스 별 트리 토퍼",
+     "category": "시즌 소품",
+     "keyword": "트리 토퍼",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "트리를 사는 고객이 함께 찾는 품목이라 11월 중순부터 수요가 커져요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8A%B8%EB%A6%AC%20%ED%86%A0%ED%8D%BC",
+     "estimated": true
+    },
+    {
+     "name": "경량 패딩 백팩",
+     "category": "가방",
+     "keyword": "패딩 백팩",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 15900,
+     "priceMax": 32900,
+     "reason": "겨울 소재 백팩이라 계절감이 있고 학생·직장인 수요가 넓어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8C%A8%EB%94%A9%20%EB%B0%B1%ED%8C%A9",
+     "estimated": true
+    },
+    {
+     "name": "접이식 태블릿 거치대",
+     "category": "데스크 잡화",
+     "keyword": "태블릿 거치대",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 15900,
+     "reason": "인강·영상 시청용 실용템이라 리뷰가 많이 쌓이고 사계절 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%83%9C%EB%B8%94%EB%A6%BF%20%EA%B1%B0%EC%B9%98%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "담수진주 스타일 반지",
+     "category": "주얼리 액세서리",
+     "keyword": "진주 반지",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 17900,
+     "reason": "연말 모임 시즌에 진주 액세서리 검색이 함께 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%A7%84%EC%A3%BC%20%EB%B0%98%EC%A7%80",
+     "estimated": true
+    },
+    {
+     "name": "꽈배기 니트 머리띠",
+     "category": "헤어 액세서리",
+     "keyword": "꽈배기 머리띠",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 8900,
+     "reason": "겨울 소재 헤어 액세서리라 지금 수요가 오르고 저단가 묶음 판매가 잘 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%BD%88%EB%B0%B0%EA%B8%B0%20%EB%A8%B8%EB%A6%AC%EB%9D%A0",
+     "estimated": true
+    },
+    {
+     "name": "차량용 안전벨트 커버",
+     "category": "자동차 액세서리",
+     "keyword": "안전벨트 커버",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "목 쓸림을 막는 저단가 실용템이고 아이 있는 가정 수요가 많아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%88%EC%A0%84%EB%B2%A8%ED%8A%B8%20%EC%BB%A4%EB%B2%84",
+     "estimated": true
+    },
+    {
+     "name": "감성 편지지 세트",
+     "category": "문구 잡화",
+     "keyword": "편지지 세트",
+     "reviews": 10000,
+     "rating": 4.7,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "연말 편지·카드 수요로 12월 전에 판매가 늘어나는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8E%B8%EC%A7%80%EC%A7%80%20%EC%84%B8%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "캐리어 손잡이 커버",
+     "category": "여행잡화",
+     "keyword": "캐리어 손잡이 커버",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 6900,
+     "reason": "겨울방학 여행 수요와 함께 찾는 저단가 품목이라 캐리어 벨트와 묶어 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BA%90%EB%A6%AC%EC%96%B4%20%EC%86%90%EC%9E%A1%EC%9D%B4%20%EC%BB%A4%EB%B2%84",
+     "estimated": true
+    },
+    {
+     "name": "숏 니트 비니 (어부 비니)",
+     "category": "모자",
+     "keyword": "숏 비니",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 14900,
+     "reason": "짧은 길이 비니가 유행하면서 겨울 시즌 검색이 늘고 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%88%8F%20%EB%B9%84%EB%8B%88",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-11",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
