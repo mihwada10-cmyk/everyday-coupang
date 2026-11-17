@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-18",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "루돌프 인형 장식",
+     "category": "시즌 소품",
+     "keyword": "루돌프 인형",
+     "reviews": 3000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 15900,
+     "reason": "크리스마스 인테리어·아이 선물 수요로 11월 중순부터 검색이 오르는 시즌템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A3%A8%EB%8F%8C%ED%94%84%20%EC%9D%B8%ED%98%95",
+     "estimated": true
+    },
+    {
+     "name": "신년 연하 카드 세트",
+     "category": "문구 잡화",
+     "keyword": "신년 카드",
+     "reviews": 3000,
+     "rating": 4.7,
+     "priceMin": 2900,
+     "priceMax": 8900,
+     "reason": "연말연시 인사 수요로 12월에 판매가 몰려 지금 등록해야 노출을 선점할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8B%A0%EB%85%84%20%EC%B9%B4%EB%93%9C",
+     "estimated": true
+    },
+    {
+     "name": "에코 퍼 토트백",
+     "category": "가방",
+     "keyword": "퍼 토트백",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 14900,
+     "priceMax": 29900,
+     "reason": "겨울 소재 가방이라 11~12월에 판매가 집중되는 시즌 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8D%BC%20%ED%86%A0%ED%8A%B8%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "이어폰 청소 키트",
+     "category": "모바일 액세서리",
+     "keyword": "이어폰 청소 키트",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "무선 이어폰 사용자가 꾸준히 찾는 저단가 실용템이라 리뷰가 잘 쌓여요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9D%B4%EC%96%B4%ED%8F%B0%20%EC%B2%AD%EC%86%8C%20%ED%82%A4%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 십자가 목걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "십자가 목걸이",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 5900,
+     "priceMax": 15900,
+     "reason": "크리스마스 시즌에 검색이 오르는 디자인이고 남녀 공용으로 팔 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8B%AD%EC%9E%90%EA%B0%80%20%EB%AA%A9%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "자개 헤어핀",
+     "category": "헤어 액세서리",
+     "keyword": "자개 헤어핀",
+     "reviews": 3000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 15900,
+     "reason": "설날 한복 코디 수요를 앞두고 연말부터 찾는 사람이 늘어나는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9E%90%EA%B0%9C%20%ED%97%A4%EC%96%B4%ED%95%80",
+     "estimated": true
+    },
+    {
+     "name": "차량용 콘솔 쿠션",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 콘솔 쿠션",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "팔걸이 보호·편안함 수요가 있는 실용템이고 경쟁이 비교적 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%EC%BD%98%EC%86%94%20%EC%BF%A0%EC%85%98",
+     "estimated": true
+    },
+    {
+     "name": "철제 북엔드",
+     "category": "데스크 잡화",
+     "keyword": "북엔드",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "신년 책상 정리 수요가 있고 저단가라 묶음 판매가 쉬워요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B6%81%EC%97%94%EB%93%9C",
+     "estimated": true
+    },
+    {
+     "name": "아동 방한 장갑",
+     "category": "패션잡화",
+     "keyword": "아동 장갑",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "아이 겨울 외출 필수템이라 기온이 떨어지면 검색이 빠르게 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EB%8F%99%20%EC%9E%A5%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "접이식 여행용 보조 가방",
+     "category": "여행잡화",
+     "keyword": "여행용 보조 가방",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "캐리어에 끼워 쓰는 여행 필수템으로 연말 해외여행 수요와 맞아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EC%9A%A9%20%EB%B3%B4%EC%A1%B0%20%EA%B0%80%EB%B0%A9",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-17",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
