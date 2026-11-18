@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-19",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "크리스마스 펠트 모빌",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 모빌",
+     "reviews": 2000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "아이 방·매장 연말 장식 수요가 있는 틈새 시즌템이라 경쟁이 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EB%AA%A8%EB%B9%8C",
+     "estimated": true
+    },
+    {
+     "name": "한복 노리개 키링",
+     "category": "가방 액세서리",
+     "keyword": "노리개",
+     "reviews": 3000,
+     "rating": 4.7,
+     "priceMin": 4900,
+     "priceMax": 14900,
+     "reason": "설날·외국인 선물 수요로 연말부터 검색이 오르는 전통 액세서리예요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%85%B8%EB%A6%AC%EA%B0%9C",
+     "estimated": true
+    },
+    {
+     "name": "남자 데일리 토트백",
+     "category": "가방",
+     "keyword": "남자 토트백",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 19900,
+     "priceMax": 42900,
+     "reason": "출근용 고단가 가방으로 연말 남성 선물 수요가 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%82%A8%EC%9E%90%20%ED%86%A0%ED%8A%B8%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "스마트폰 핑거 스트랩",
+     "category": "모바일 액세서리",
+     "keyword": "핑거 스트랩",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "폰 떨어뜨림 방지 저단가 실용템이라 묶음 판매와 리뷰 쌓기에 유리해요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%95%91%EA%B1%B0%20%EC%8A%A4%ED%8A%B8%EB%9E%A9",
+     "estimated": true
+    },
+    {
+     "name": "소가죽 레이어드 팔찌",
+     "category": "주얼리 액세서리",
+     "keyword": "가죽 팔찌",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 16900,
+     "reason": "남녀 공용 캐주얼 액세서리라 겨울 니트 코디와 함께 많이 찾아요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B0%80%EC%A3%BD%20%ED%8C%94%EC%B0%8C",
+     "estimated": true
+    },
+    {
+     "name": "큐빅 장식 헤어핀",
+     "category": "헤어 액세서리",
+     "keyword": "큐빅 헤어핀",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "연말 모임·파티 시즌에 수요가 오르는 헤어 액세서리예요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%90%EB%B9%85%20%ED%97%A4%EC%96%B4%ED%95%80",
+     "estimated": true
+    },
+    {
+     "name": "차량용 미끄럼 방지 패드",
+     "category": "자동차 액세서리",
+     "keyword": "미끄럼 방지 패드",
+     "reviews": 30000,
+     "rating": 4.5,
+     "priceMin": 2900,
+     "priceMax": 7900,
+     "reason": "대시보드 소지품 고정용 저단가 스테디셀러라 리뷰가 많이 쌓여요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AF%B8%EB%81%84%EB%9F%BC%20%EB%B0%A9%EC%A7%80%20%ED%8C%A8%EB%93%9C",
+     "estimated": true
+    },
+    {
+     "name": "실링 왁스 스탬프 세트",
+     "category": "문구 잡화",
+     "keyword": "실링 왁스",
+     "reviews": 5000,
+     "rating": 4.7,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "연말 편지·선물 포장 꾸미기 수요가 있는 감성 문구 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8B%A4%EB%A7%81%20%EC%99%81%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "아동 방울 비니",
+     "category": "모자",
+     "keyword": "아동 비니",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 12900,
+     "reason": "아이 겨울 외출 필수템이라 기온이 떨어지면 검색이 빠르게 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EB%8F%99%20%EB%B9%84%EB%8B%88",
+     "estimated": true
+    },
+    {
+     "name": "극세사 여행용 타월",
+     "category": "여행잡화",
+     "keyword": "여행용 타월",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 13900,
+     "reason": "빨리 마르는 휴대용 타월로 겨울방학 여행·운동 수요가 겹쳐요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EC%9A%A9%20%ED%83%80%EC%9B%94",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-18",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
