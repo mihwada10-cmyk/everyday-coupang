@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-21",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "천연 솔방울 장식 세트",
+     "category": "시즌 소품",
+     "keyword": "솔방울 장식",
+     "reviews": 3000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "리스·트리·테이블 장식에 두루 쓰여 11~12월 수요가 큰 저단가 시즌템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%86%94%EB%B0%A9%EC%9A%B8%20%EC%9E%A5%EC%8B%9D",
+     "estimated": true
+    },
+    {
+     "name": "전통 선물 보자기",
+     "category": "시즌 소품",
+     "keyword": "보자기",
+     "reviews": 5000,
+     "rating": 4.7,
+     "priceMin": 3900,
+     "priceMax": 12900,
+     "reason": "설 선물 포장 수요가 12월부터 시작돼 지금 등록하면 노출을 선점할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B3%B4%EC%9E%90%EA%B8%B0",
+     "estimated": true
+    },
+    {
+     "name": "경량 패딩 크로스백",
+     "category": "가방",
+     "keyword": "패딩 크로스백",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 12900,
+     "priceMax": 25900,
+     "reason": "겨울 소재 가방이라 11~12월에 판매가 집중되는 시즌 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8C%A8%EB%94%A9%20%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "고속 무선 충전기",
+     "category": "모바일 액세서리",
+     "keyword": "무선 충전기",
+     "reviews": 30000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "검색량이 큰 모바일 액세서리이고 연말 선물 수요도 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AC%B4%EC%84%A0%20%EC%B6%A9%EC%A0%84%EA%B8%B0",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 체인 드롭 귀걸이",
+     "category": "주얼리 액세서리",
+     "keyword": "체인 귀걸이",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "심플한 데일리 귀걸이라 연말 모임룩 수요와 함께 꾸준히 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B2%B4%EC%9D%B8%20%EA%B7%80%EA%B1%B8%EC%9D%B4",
+     "estimated": true
+    },
+    {
+     "name": "와이드 패딩 머리띠",
+     "category": "헤어 액세서리",
+     "keyword": "와이드 머리띠",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "얼굴이 작아 보이는 효과로 꾸준히 인기 있고 겨울 소재 옵션이 잘 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%99%80%EC%9D%B4%EB%93%9C%20%EB%A8%B8%EB%A6%AC%EB%9D%A0",
+     "estimated": true
+    },
+    {
+     "name": "차량용 눈 제거 브러시",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 눈 브러시",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 5900,
+     "priceMax": 13900,
+     "reason": "첫눈 소식과 함께 검색이 급증하는 겨울 차량 필수템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%EB%88%88%20%EB%B8%8C%EB%9F%AC%EC%8B%9C",
+     "estimated": true
+    },
+    {
+     "name": "감성 스크랩북",
+     "category": "문구 잡화",
+     "keyword": "스크랩북",
+     "reviews": 5000,
+     "rating": 4.7,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "연말 추억 정리·커플 선물용으로 12월 전에 수요가 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8A%A4%ED%81%AC%EB%9E%A9%EB%B6%81",
+     "estimated": true
+    },
+    {
+     "name": "아동 극세사 실내화",
+     "category": "패션잡화",
+     "keyword": "아동 실내화",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "어린이집·유치원 실내화 수요가 꾸준하고 겨울 소재 옵션이 잘 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EB%8F%99%20%EC%8B%A4%EB%82%B4%ED%99%94",
+     "estimated": true
+    },
+    {
+     "name": "캐리어 컵홀더",
+     "category": "여행잡화",
+     "keyword": "캐리어 컵홀더",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 8900,
+     "reason": "공항 이동 시 커피·텀블러를 거는 저단가 실용템이라 여행 잡화와 묶어 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BA%90%EB%A6%AC%EC%96%B4%20%EC%BB%B5%ED%99%80%EB%8D%94",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-20",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
