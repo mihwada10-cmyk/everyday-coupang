@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-22",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "크리스마스 미니어처 장식",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 미니어처",
+     "reviews": 3000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 14900,
+     "reason": "책상·선반 연말 꾸미기 수요가 있고 소형이라 배송 부담이 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EB%AF%B8%EB%8B%88%EC%96%B4%EC%B2%98",
+     "estimated": true
+    },
+    {
+     "name": "세뱃돈 봉투 세트",
+     "category": "문구 잡화",
+     "keyword": "세뱃돈 봉투",
+     "reviews": 5000,
+     "rating": 4.7,
+     "priceMin": 1900,
+     "priceMax": 5900,
+     "reason": "설을 앞두고 미리 찾는 저단가 시즌템이라 묶음 판매가 잘 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%B8%EB%B1%83%EB%8F%88%20%EB%B4%89%ED%88%AC",
+     "estimated": true
+    },
+    {
+     "name": "데일리 카메라 백",
+     "category": "가방",
+     "keyword": "카메라 백",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 14900,
+     "priceMax": 34900,
+     "reason": "연말 여행·출사 수요가 있고 미러리스 사용자층이 꾸준히 찾아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "맥세이프 보조배터리",
+     "category": "모바일 액세서리",
+     "keyword": "맥세이프 보조배터리",
+     "reviews": 20000,
+     "rating": 4.5,
+     "priceMin": 19900,
+     "priceMax": 39900,
+     "reason": "겨울엔 배터리 소모가 빨라 수요가 늘고 연말 선물 키워드와도 맞아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A7%A5%EC%84%B8%EC%9D%B4%ED%94%84%20%EB%B3%B4%EC%A1%B0%EB%B0%B0%ED%84%B0%EB%A6%AC",
+     "estimated": true
+    },
+    {
+     "name": "천연 원석 반지",
+     "category": "주얼리 액세서리",
+     "keyword": "원석 반지",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 17900,
+     "reason": "신년 운세·탄생석 수요로 연말연시에 검색이 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9B%90%EC%84%9D%20%EB%B0%98%EC%A7%80",
+     "estimated": true
+    },
+    {
+     "name": "헤어 도넛 (똥머리 메이커)",
+     "category": "헤어 액세서리",
+     "keyword": "헤어 도넛",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 2900,
+     "priceMax": 6900,
+     "reason": "저단가 소모품이라 재구매가 많고 사이즈 세트로 묶어 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%97%A4%EC%96%B4%20%EB%8F%84%EB%84%9B",
+     "estimated": true
+    },
+    {
+     "name": "카시트 보호 매트",
+     "category": "자동차 액세서리",
+     "keyword": "카시트 보호 매트",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 12900,
+     "priceMax": 25900,
+     "reason": "아이 있는 가정의 필수템이라 리뷰가 꾸준히 쌓이고 객단가도 높아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B9%B4%EC%8B%9C%ED%8A%B8%20%EB%B3%B4%ED%98%B8%20%EB%A7%A4%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "컬러 포스트잇 세트",
+     "category": "문구 잡화",
+     "keyword": "포스트잇",
+     "reviews": 30000,
+     "rating": 4.7,
+     "priceMin": 2900,
+     "priceMax": 9900,
+     "reason": "검색량이 큰 소모품이고 신학기·신년 수요가 모두 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8F%AC%EC%8A%A4%ED%8A%B8%EC%9E%87",
+     "estimated": true
+    },
+    {
+     "name": "아동 극세사 넥워머",
+     "category": "패션잡화",
+     "keyword": "아동 넥워머",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 10900,
+     "reason": "목도리보다 안전해 아이 엄마들이 많이 찾는 겨울 필수템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EB%8F%99%20%EB%84%A5%EC%9B%8C%EB%A8%B8",
+     "estimated": true
+    },
+    {
+     "name": "여행용 세탁 파우치",
+     "category": "여행잡화",
+     "keyword": "세탁 파우치",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "여행 중 빨랫감을 분리하는 실용템이라 다른 여행 잡화와 묶어 팔기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%B8%ED%83%81%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-21",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
