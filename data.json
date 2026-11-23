@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-24",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "크리스마스 트리 받침대",
+     "category": "시즌 소품",
+     "keyword": "트리 받침대",
+     "reviews": 3000,
+     "rating": 4.5,
+     "priceMin": 6900,
+     "priceMax": 16900,
+     "reason": "트리를 새로 사거나 교체하는 고객이 함께 찾는 품목인데 판매자가 적어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8A%B8%EB%A6%AC%20%EB%B0%9B%EC%B9%A8%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "전통 복조리 장식",
+     "category": "시즌 소품",
+     "keyword": "복조리",
+     "reviews": 2000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 14900,
+     "reason": "새해 현관 장식 수요로 연말부터 검색이 오르는 틈새 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B3%B5%EC%A1%B0%EB%A6%AC",
+     "estimated": true
+    },
+    {
+     "name": "노트북 숄더백 15인치",
+     "category": "가방",
+     "keyword": "노트북 숄더백",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 19900,
+     "priceMax": 39900,
+     "reason": "출근·통학용 실용 가방이라 사계절 팔리고 객단가가 높아요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%88%84%EB%8D%94%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "목걸이 폰케이스",
+     "category": "모바일 액세서리",
+     "keyword": "목걸이 폰케이스",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 22900,
+     "reason": "가방 없이 다니는 겨울 외출용으로 인기가 오르는 트렌드 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AA%A9%EA%B1%B8%EC%9D%B4%20%ED%8F%B0%EC%BC%80%EC%9D%B4%EC%8A%A4",
+     "estimated": true
+    },
+    {
+     "name": "로즈골드 데일리 팔찌",
+     "category": "주얼리 액세서리",
+     "keyword": "로즈골드 팔찌",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "연말 선물용으로 검색이 오르는 색상 키워드예요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A1%9C%EC%A6%88%EA%B3%A8%EB%93%9C%20%ED%8C%94%EC%B0%8C",
+     "estimated": true
+    },
+    {
+     "name": "퍼 헤어핀 세트",
+     "category": "헤어 액세서리",
+     "keyword": "퍼 헤어핀",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 3900,
+     "priceMax": 8900,
+     "reason": "겨울 소재 헤어 액세서리라 지금 수요가 오르는 저단가 시즌템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8D%BC%20%ED%97%A4%EC%96%B4%ED%95%80",
+     "estimated": true
+    },
+    {
+     "name": "차량용 소화기",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 소화기",
+     "reviews": 15000,
+     "rating": 4.7,
+     "priceMin": 14900,
+     "priceMax": 29900,
+     "reason": "차량 비치 의무화 이후 꾸준히 팔리는 필수품이라 리뷰가 많이 쌓여요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%EC%86%8C%ED%99%94%EA%B8%B0",
+     "estimated": true
+    },
+    {
+     "name": "A4 클립보드",
+     "category": "문구 잡화",
+     "keyword": "클립보드",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 7900,
+     "reason": "사무·학원 수요가 꾸준한 저단가 소모품이라 묶음 판매가 잘 돼요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C",
+     "estimated": true
+    },
+    {
+     "name": "아동 경량 백팩",
+     "category": "가방",
+     "keyword": "아동 백팩",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 12900,
+     "priceMax": 29900,
+     "reason": "유치원·초등 입학 준비 수요가 연말부터 시작되는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EB%8F%99%20%EB%B0%B1%ED%8C%A9",
+     "estimated": true
+    },
+    {
+     "name": "휴대용 여행 담요",
+     "category": "여행잡화",
+     "keyword": "여행용 담요",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "기내·차량용 보온 수요로 겨울 여행 시즌에 검색이 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%97%AC%ED%96%89%EC%9A%A9%20%EB%8B%B4%EC%9A%94",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-23",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
