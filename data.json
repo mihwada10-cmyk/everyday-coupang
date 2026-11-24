@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-25",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "크리스마스 패턴 냅킨",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 냅킨",
+     "reviews": 5000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "연말 홈파티 준비 수요로 12월 전에 묶음 구매가 많은 저단가 시즌템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EB%83%85%ED%82%A8",
+     "estimated": true
+    },
+    {
+     "name": "2027 양띠 인형",
+     "category": "시즌 소품",
+     "keyword": "양 인형",
+     "reviews": 3000,
+     "rating": 4.7,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "새해 띠 인형은 연말 선물·인테리어 수요가 있고 판매자가 적은 틈새 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%96%91%20%EC%9D%B8%ED%98%95",
+     "estimated": true
+    },
+    {
+     "name": "초등 경량 책가방",
+     "category": "가방",
+     "keyword": "책가방",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 29900,
+     "priceMax": 69900,
+     "reason": "3월 입학을 앞두고 연말부터 검색이 오르는 고단가 품목이라 지금 등록하면 노출을 선점할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B1%85%EA%B0%80%EB%B0%A9",
+     "estimated": true
+    },
+    {
+     "name": "멀티 충전 거치대",
+     "category": "모바일 액세서리",
+     "keyword": "충전 거치대",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 14900,
+     "priceMax": 34900,
+     "reason": "폰·워치·이어폰을 한 번에 충전하는 정리템이라 연말 선물 수요도 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B6%A9%EC%A0%84%20%EA%B1%B0%EC%B9%98%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "큐빅 데일리 반지",
+     "category": "주얼리 액세서리",
+     "keyword": "큐빅 반지",
+     "reviews": 15000,
+     "rating": 4.5,
+     "priceMin": 4900,
+     "priceMax": 13900,
+     "reason": "연말 모임 시즌에 반짝이는 주얼리 검색이 함께 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%90%EB%B9%85%20%EB%B0%98%EC%A7%80",
+     "estimated": true
+    },
+    {
+     "name": "대용량 머리끈 100개",
+     "category": "헤어 액세서리",
+     "keyword": "머리끈 대용량",
+     "reviews": 30000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "소모품이라 재구매가 많고 검색량이 큰 스테디셀러예요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%A8%B8%EB%A6%AC%EB%81%88%20%EB%8C%80%EC%9A%A9%EB%9F%89",
+     "estimated": true
+    },
+    {
+     "name": "차량용 비상 삼각대",
+     "category": "자동차 액세서리",
+     "keyword": "비상 삼각대",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 16900,
+     "reason": "겨울철 사고 대비 필수품이라 눈 소식과 함께 검색이 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%B9%84%EC%83%81%20%EC%82%BC%EA%B0%81%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "원목 콜크 보드",
+     "category": "데스크 잡화",
+     "keyword": "콜크 보드",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "신년 계획·책상 꾸미기 수요로 연말에 검색이 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BD%9C%ED%81%AC%20%EB%B3%B4%EB%93%9C",
+     "estimated": true
+    },
+    {
+     "name": "아동 미니 크로스백",
+     "category": "가방",
+     "keyword": "아동 크로스백",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 16900,
+     "reason": "아이 선물·나들이용 수요가 있고 캐릭터 옵션으로 경쟁하기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EB%8F%99%20%ED%81%AC%EB%A1%9C%EC%8A%A4%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "휴대용 캐리어 저울",
+     "category": "여행잡화",
+     "keyword": "캐리어 저울",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "해외여행 수하물 무게 확인용 필수템이라 겨울방학 시즌에 수요가 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BA%90%EB%A6%AC%EC%96%B4%20%EC%A0%80%EC%9A%B8",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-24",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
