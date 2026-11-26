@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-27",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "크리스마스 장식 벨",
+     "category": "시즌 소품",
+     "keyword": "크리스마스 벨",
+     "reviews": 3000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "현관·트리 장식용으로 12월 전에 수요가 몰리는 저단가 시즌템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%EB%B2%A8",
+     "estimated": true
+    },
+    {
+     "name": "방수 이름표 스티커",
+     "category": "문구 잡화",
+     "keyword": "이름표 스티커",
+     "reviews": 20000,
+     "rating": 4.8,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "입학·입원 준비물로 연말부터 수요가 오르는 맞춤 제작 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9D%B4%EB%A6%84%ED%91%9C%20%EC%8A%A4%ED%8B%B0%EC%BB%A4",
+     "estimated": true
+    },
+    {
+     "name": "체인 미니 지갑",
+     "category": "지갑",
+     "keyword": "체인 지갑",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "가방 없이 들고 다니는 미니 지갑으로 연말 모임 수요가 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B2%B4%EC%9D%B8%20%EC%A7%80%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "폰꾸 스티커 세트",
+     "category": "모바일 액세서리",
+     "keyword": "폰꾸 스티커",
+     "reviews": 10000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 7900,
+     "reason": "10~20대 꾸미기 수요가 큰 저단가 품목이라 시즌 디자인으로 계속 신상품을 낼 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8F%B0%EA%BE%B8%20%EC%8A%A4%ED%8B%B0%EC%BB%A4",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 시그넷 반지",
+     "category": "주얼리 액세서리",
+     "keyword": "시그넷 반지",
+     "reviews": 5000,
+     "rating": 4.5,
+     "priceMin": 8900,
+     "priceMax": 22900,
+     "reason": "남녀 공용 트렌드 반지라 이니셜 각인 옵션으로 선물 수요를 잡기 좋아요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%8B%9C%EA%B7%B8%EB%84%B7%20%EB%B0%98%EC%A7%80",
+     "estimated": true
+    },
+    {
+     "name": "헤어 번 망 세트",
+     "category": "헤어 액세서리",
+     "keyword": "헤어 망",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 6900,
+     "reason": "발레·승무원·서비스직 수요가 꾸준한 저단가 소모품이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%97%A4%EC%96%B4%20%EB%A7%9D",
+     "estimated": true
+    },
+    {
+     "name": "극세사 세차 타월",
+     "category": "자동차 액세서리",
+     "keyword": "세차 타월",
+     "reviews": 30000,
+     "rating": 4.7,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "세차 소모품이라 재구매가 많고 검색량이 큰 스테디셀러예요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%B8%EC%B0%A8%20%ED%83%80%EC%9B%94",
+     "estimated": true
+    },
+    {
+     "name": "A4 파일 홀더",
+     "category": "문구 잡화",
+     "keyword": "파일 홀더",
+     "reviews": 15000,
+     "rating": 4.6,
+     "priceMin": 2900,
+     "priceMax": 9900,
+     "reason": "신년 서류 정리·입학 준비 수요가 겹치는 저단가 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8C%8C%EC%9D%BC%20%ED%99%80%EB%8D%94",
+     "estimated": true
+    },
+    {
+     "name": "아동 아날로그 시계",
+     "category": "시계",
+     "keyword": "아동 시계",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 24900,
+     "reason": "입학 선물로 수요가 오르는 품목이라 연말부터 검색이 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EB%8F%99%20%EC%8B%9C%EA%B3%84",
+     "estimated": true
+    },
+    {
+     "name": "여행용 걸이형 파우치",
+     "category": "여행잡화",
+     "keyword": "걸이형 파우치",
+     "reviews": 8000,
+     "rating": 4.7,
+     "priceMin": 7900,
+     "priceMax": 16900,
+     "reason": "숙소에서 걸어 쓰는 수납 파우치라 여행 시즌 리뷰 만족도가 높아요.",
+     "link": "https://www.coupang.com/np/search?q=%EA%B1%B8%EC%9D%B4%ED%98%95%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-26",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
