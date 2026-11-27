@@ -1,6 +1,132 @@
 {
  "days": [
   {
+   "date": "2026-11-28",
+   "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
+   "items": [
+    {
+     "name": "크리스마스 트리 리본 롤",
+     "category": "시즌 소품",
+     "keyword": "트리 리본",
+     "reviews": 3000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "트리·리스 장식용으로 12월 직전에 수요가 몰리는 저단가 시즌템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%8A%B8%EB%A6%AC%20%EB%A6%AC%EB%B3%B8",
+     "estimated": true
+    },
+    {
+     "name": "벨벳 상장 파일",
+     "category": "문구 잡화",
+     "keyword": "상장 파일",
+     "reviews": 5000,
+     "rating": 4.7,
+     "priceMin": 2900,
+     "priceMax": 8900,
+     "reason": "학년말·졸업 시즌에 수요가 오르는 품목이라 지금 등록하면 노출을 선점할 수 있어요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%83%81%EC%9E%A5%20%ED%8C%8C%EC%9D%BC",
+     "estimated": true
+    },
+    {
+     "name": "캔버스 데일리 토트백",
+     "category": "가방",
+     "keyword": "캔버스 토트백",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 9900,
+     "priceMax": 19900,
+     "reason": "학생·직장인 수요가 넓은 스테디셀러라 꾸준히 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BA%94%EB%B2%84%EC%8A%A4%20%ED%86%A0%ED%8A%B8%EB%B0%B1",
+     "estimated": true
+    },
+    {
+     "name": "자석 휴대폰 거치대",
+     "category": "모바일 액세서리",
+     "keyword": "자석 거치대",
+     "reviews": 20000,
+     "rating": 4.5,
+     "priceMin": 4900,
+     "priceMax": 12900,
+     "reason": "맥세이프 사용자 증가로 검색이 늘고 있는 실용템이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%9E%90%EC%84%9D%20%EA%B1%B0%EC%B9%98%EB%8C%80",
+     "estimated": true
+    },
+    {
+     "name": "써지컬 탄생석 반지",
+     "category": "주얼리 액세서리",
+     "keyword": "탄생석 반지",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 7900,
+     "priceMax": 19900,
+     "reason": "생일·연말 선물용으로 월별 옵션을 두면 꾸준히 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%ED%83%84%EC%83%9D%EC%84%9D%20%EB%B0%98%EC%A7%80",
+     "estimated": true
+    },
+    {
+     "name": "졸업식 코사지",
+     "category": "패션잡화",
+     "keyword": "코사지",
+     "reviews": 3000,
+     "rating": 4.6,
+     "priceMin": 3900,
+     "priceMax": 9900,
+     "reason": "졸업·결혼식 하객 수요로 연말부터 2월까지 판매가 이어지는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%BD%94%EC%82%AC%EC%A7%80",
+     "estimated": true
+    },
+    {
+     "name": "차량용 코일 매트",
+     "category": "자동차 액세서리",
+     "keyword": "차량용 코일 매트",
+     "reviews": 10000,
+     "rating": 4.5,
+     "priceMin": 29900,
+     "priceMax": 69900,
+     "reason": "겨울철 눈·흙 오염 대비 수요로 검색이 오르는 고단가 차량 용품이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%EC%9A%A9%20%EC%BD%94%EC%9D%BC%20%EB%A7%A4%ED%8A%B8",
+     "estimated": true
+    },
+    {
+     "name": "서랍 칸막이 정리함",
+     "category": "생활잡화",
+     "keyword": "서랍 정리함",
+     "reviews": 20000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 14900,
+     "reason": "신년 정리 수요로 연말에 검색이 늘고 세트 구성이 잘 팔려요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%84%9C%EB%9E%8D%20%EC%A0%95%EB%A6%AC%ED%95%A8",
+     "estimated": true
+    },
+    {
+     "name": "아동 캐릭터 지갑",
+     "category": "지갑",
+     "keyword": "아동 지갑",
+     "reviews": 8000,
+     "rating": 4.6,
+     "priceMin": 5900,
+     "priceMax": 13900,
+     "reason": "세뱃돈 시즌을 앞두고 아이 선물 수요가 오르는 품목이에요.",
+     "link": "https://www.coupang.com/np/search?q=%EC%95%84%EB%8F%99%20%EC%A7%80%EA%B0%91",
+     "estimated": true
+    },
+    {
+     "name": "목걸이 지퍼 파우치",
+     "category": "여행잡화",
+     "keyword": "목걸이 파우치",
+     "reviews": 8000,
+     "rating": 4.5,
+     "priceMin": 4900,
+     "priceMax": 11900,
+     "reason": "여권·카드를 몸에 지니는 여행 필수템이라 겨울방학 시즌에 수요가 늘어요.",
+     "link": "https://www.coupang.com/np/search?q=%EB%AA%A9%EA%B1%B8%EC%9D%B4%20%ED%8C%8C%EC%9A%B0%EC%B9%98",
+     "estimated": true
+    }
+   ]
+  },
+  {
    "date": "2026-11-27",
    "note": "리뷰 수·평점은 쿠팡 상위 노출 상품들의 대략적인 규모예요(추정). 등록 전에 검색 링크에서 실제 경쟁 상품을 확인해 주세요.",
    "items": [
